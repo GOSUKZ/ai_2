@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 TOKEN = os.environ['TELEGRAM_BOT_API_TOKEN']
 # Initialize bot and dispatcher
-bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.MARKDOWN))
 dp = Dispatcher()
 
 

@@ -9,10 +9,10 @@ def create_connection():
     return conn
 
 # Load JSON data from files
-with open('C:/Users/Gosu/Desktop/idca/app/data/kolesa.json', 'r', encoding='utf-8') as f:
+with open('app/data/kolesa.json', 'r', encoding='utf-8') as f:
     cars_data = json.load(f)
 
-with open('C:/Users/Gosu/Desktop/idca/app/data/krisha.json', 'r', encoding='utf-8') as f:
+with open('app/data/krisha.json', 'r', encoding='utf-8') as f:
     apartments_data = json.load(f)
 
 # Define popular brands mapping

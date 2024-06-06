@@ -2,7 +2,7 @@ import logging
 import json
 import os
 from app.promts import system_promt
-from functions import (
+from app.functions import (
     find_cars_by_price,
     find_cars_by_name,
     find_cars_by_model,
@@ -14,13 +14,18 @@ from functions import (
     find_apartments_by_district
 )
 from openai import OpenAI
+from dotenv import load_dotenv
+load_dotenv()
+
 TOKEN = os.environ['OPENAI_API_KEY']
+
 client = OpenAI(api_key=TOKEN)
 
 user_contexts = {}
 
 
 def run_conversation(user_id, content):
+    print(content)
     if user_id not in user_contexts:
         user_contexts[user_id] = [{"role": "system", "content": system_promt}, {"role": "user", "content": content}]
     else:
