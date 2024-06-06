@@ -1,0 +1,4475 @@
+[
+    {
+        "name": "Mitsubishi",
+        "model": "Galant",
+        "year": "2008 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 316 776 км",
+        "price": "4 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464452"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "G 550",
+        "year": "2013 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 100 000 км",
+        "price": "31 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171194055"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "G 550",
+        "year": "2012 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 175 000 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170424619"
+    },
+    {
+        "name": "Kia",
+        "model": "Cerato",
+        "year": "2022 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 12 200 км",
+        "price": "12 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171349457"
+    },
+    {
+        "name": "Audi",
+        "model": "100",
+        "year": "1989 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 220 000 км",
+        "price": "1 550 000 ₸",
+        "url": "https://kolesa.kz/a/show/171354178"
+    },
+    {
+        "name": "Lexus",
+        "model": "ES 200",
+        "year": "2016 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 90 000 км",
+        "price": "15 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171296613"
+    },
+    {
+        "name": "Lexus",
+        "model": "ES 200",
+        "year": "2013 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 220 000 км",
+        "price": "2 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/171322352"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat",
+        "year": "2016 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 220 000 км",
+        "price": "9 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171318108"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) 2114",
+        "year": "2013 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 250 км",
+        "price": "1 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171309515"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio X-Line",
+        "year": "2020 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 23 500 км",
+        "price": "8 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/169841842"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2024 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 5 000 км",
+        "price": "17 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/164182100"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2019 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 85 000 км",
+        "price": "21 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169674791"
+    },
+    {
+        "name": "Lexus",
+        "model": "ES 350",
+        "year": "2019 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 44 000 км",
+        "price": "24 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170364022"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Golf",
+        "year": "1997 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 101 266 км",
+        "price": "2 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171273727"
+    },
+    {
+        "name": "Toyota",
+        "model": "Hiace",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 6 000 км",
+        "price": "25 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171274073"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2015 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 139 000 км",
+        "price": "6 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171271255"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Golf",
+        "year": "1997 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 101 266 км",
+        "price": "2 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171273727"
+    },
+    {
+        "name": "Toyota",
+        "model": "Hiace",
+        "year": "2023 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 6 000 км",
+        "price": "25 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171274073"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2015 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 139 000 км",
+        "price": "6 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171271255"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2019 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 19 000 км",
+        "price": "4 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171266680"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 220",
+        "year": "1995 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 400 000 км",
+        "price": "2 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171254608"
+    },
+    {
+        "name": "BMW",
+        "model": "X7",
+        "year": "2023 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 7 000 км",
+        "price": "63 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171245631"
+    },
+    {
+        "name": "Porsche",
+        "model": "Cayenne",
+        "year": "2012 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 181 000 км",
+        "price": "14 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171235250"
+    },
+    {
+        "name": "BMW",
+        "model": "iX",
+        "year": "2023 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 6 000 км",
+        "price": "45 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171096139"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2020 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 72 000 км",
+        "price": "44 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171222331"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2014 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 157 000 км",
+        "price": "5 350 000 ₸",
+        "url": "https://kolesa.kz/a/show/171221902"
+    },
+    {
+        "name": "BMW",
+        "model": "530",
+        "year": "2021 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 45 000 км",
+        "price": "32 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170109845"
+    },
+    {
+        "name": "Opel",
+        "model": "Antara",
+        "year": "2012 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 180 000 км",
+        "price": "4 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171202568"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2024 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 2 000 км",
+        "price": "24 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171133897"
+    },
+    {
+        "name": "Toyota",
+        "model": "4Runner",
+        "year": "2016 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 100 км",
+        "price": "11 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171191385"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2021 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 98 000 км",
+        "price": "14 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/150915883"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Niva",
+        "year": "2015 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 369 343 км",
+        "price": "2 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171183703"
+    },
+    {
+        "name": "Kia",
+        "model": "Seltos",
+        "year": "2024 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 50 км",
+        "price": "9 550 000 ₸",
+        "url": "https://kolesa.kz/a/show/170177760"
+    },
+    {
+        "name": "Toyota",
+        "model": "Alphard",
+        "year": "2007 г.",
+        "city": "Карабулак (Ескельдинский р-н)",
+        "mileage": "с пробегом 127 000 км",
+        "price": "8 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170671948"
+    },
+    {
+        "name": "Toyota",
+        "model": "Alphard",
+        "year": "2007 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 127 000 км",
+        "price": "8 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170671948"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 230",
+        "year": "1989 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 305 999 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171162387"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2006 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 280 000 км",
+        "price": "14 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170634474"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) 2114",
+        "year": "2010 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 100 000 км",
+        "price": "950 000 ₸",
+        "url": "https://kolesa.kz/a/show/171158495"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2018 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 179 000 км",
+        "price": "8 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171157085"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat CC",
+        "year": "2009 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 280 000 км",
+        "price": "5 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464706"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) Granta",
+        "year": "2022 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 55 000 км",
+        "price": "5 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171135634"
+    },
+    {
+        "name": "Audi",
+        "model": "R8",
+        "year": "2017 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 54 000 км",
+        "price": "66 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171459927"
+    },
+    {
+        "name": "Kia",
+        "model": "Seltos",
+        "year": "2021 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 90 000 км",
+        "price": "4 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/136023310"
+    },
+    {
+        "name": "Kia",
+        "model": "K8",
+        "year": "2021 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 31 000 км",
+        "price": "18 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171455010"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2012 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 260 000 км",
+        "price": "7 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/169882664"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 320",
+        "year": "1997 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 293 000 км",
+        "price": "3 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171094307"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2007 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 444 444 км",
+        "price": "5 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171323790"
+    },
+    {
+        "name": "BMW",
+        "model": "X5",
+        "year": "2017 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 81 000 км",
+        "price": "21 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171083432"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2020 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 84 000 км",
+        "price": "12 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/169917249"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Palisade",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 16 000 км",
+        "price": "29 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171072802"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2021 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 27 800 км",
+        "price": "13 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/156535363"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 16 000 км",
+        "price": "16 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/168360526"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2014 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 194 000 км",
+        "price": "3 450 000 ₸",
+        "url": "https://kolesa.kz/a/show/171450081"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat",
+        "year": "1993 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 225 550 км",
+        "price": "1 750 000 ₸",
+        "url": "https://kolesa.kz/a/show/171448643"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2024 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 10 км",
+        "price": "8 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/170261494"
+    },
+    {
+        "name": "Toyota",
+        "model": "Mark X",
+        "year": "2007 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 200 000 км",
+        "price": "3 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170571888"
+    },
+    {
+        "name": "Nissan",
+        "model": "Altima",
+        "year": "2018 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 154 000 км",
+        "price": "8 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/164319272"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "S 320",
+        "year": "2020 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 78 000 км",
+        "price": "4 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/171403130"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2017 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 85 000 км",
+        "price": "10 250 000 ₸",
+        "url": "https://kolesa.kz/a/show/171021440"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 38 000 км",
+        "price": "20 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169979330"
+    },
+    {
+        "name": "Renault",
+        "model": "Kaptur",
+        "year": "2016 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 186 000 км",
+        "price": "6 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/161969058"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 16 000 км",
+        "price": "12 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/164104522"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2019 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 64 000 км",
+        "price": "52 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169429666"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Solaris",
+        "year": "2012 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 138 000 км",
+        "price": "5 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170994530"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2014 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 125 000 км",
+        "price": "6 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/171063890"
+    },
+    {
+        "name": "Toyota",
+        "model": "Yaris",
+        "year": "2009 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 204 250 км",
+        "price": "3 950 000 ₸",
+        "url": "https://kolesa.kz/a/show/170988269"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2011 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 138 000 км",
+        "price": "10 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170984136"
+    },
+    {
+        "name": "Nissan",
+        "model": "X-Trail",
+        "year": "2014 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 175 000 км",
+        "price": "6 950 000 ₸",
+        "url": "https://kolesa.kz/a/show/170085180"
+    },
+    {
+        "name": "BMW",
+        "model": "535",
+        "year": "2012 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 200 000 км",
+        "price": "8 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/162339841"
+    },
+    {
+        "name": "Li",
+        "model": "L9",
+        "year": "2024 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 15 км",
+        "price": "28 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/168854307"
+    },
+    {
+        "name": "Toyota",
+        "model": "FJ Cruiser",
+        "year": "2022 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 11 000 км",
+        "price": "26 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/162398869"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 37 000 км",
+        "price": "13 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170967151"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Delica",
+        "year": "1994 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 195 000 км",
+        "price": "3 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/168257856"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2019 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 82 км",
+        "price": "10 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/169861691"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Tiguan",
+        "year": "2020 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 85 000 км",
+        "price": "11 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/166870231"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2023 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 18 700 км",
+        "price": "14 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171271664"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Onix",
+        "year": "2023 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 15 000 км",
+        "price": "7 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/162911561"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "ASX",
+        "year": "2013 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 180 000 км",
+        "price": "5 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171436734"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2020 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 58 000 км",
+        "price": "7 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171438968"
+    },
+    {
+        "name": "Toyota",
+        "model": "Yaris",
+        "year": "2009 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 204 250 км",
+        "price": "3 950 000 ₸",
+        "url": "https://kolesa.kz/a/show/170988269"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2011 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 138 000 км",
+        "price": "10 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170984136"
+    },
+    {
+        "name": "Nissan",
+        "model": "X-Trail",
+        "year": "2014 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 175 000 км",
+        "price": "6 950 000 ₸",
+        "url": "https://kolesa.kz/a/show/170085180"
+    },
+    {
+        "name": "BMW",
+        "model": "535",
+        "year": "2012 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 200 000 км",
+        "price": "8 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/162339841"
+    },
+    {
+        "name": "Li",
+        "model": "L9",
+        "year": "2024 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 15 км",
+        "price": "28 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/168854307"
+    },
+    {
+        "name": "Toyota",
+        "model": "FJ Cruiser",
+        "year": "2022 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 11 000 км",
+        "price": "26 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/162398869"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 37 000 км",
+        "price": "13 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170967151"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Delica",
+        "year": "1994 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 195 000 км",
+        "price": "3 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/168257856"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2019 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 82 км",
+        "price": "10 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/169861691"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Tiguan",
+        "year": "2020 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 85 000 км",
+        "price": "11 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/166870231"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2023 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 18 700 км",
+        "price": "14 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171271664"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Onix",
+        "year": "2023 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 15 000 км",
+        "price": "7 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/162911561"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "ASX",
+        "year": "2013 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 180 000 км",
+        "price": "5 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171436734"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2020 г.",
+        "city": "Караганда",
+        "mileage": "с пробегом 58 000 км",
+        "price": "7 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171438968"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Delica",
+        "year": "1994 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 195 000 км",
+        "price": "3 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/168257856"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 82 км",
+        "price": "10 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/169861691"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Tiguan",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 85 000 км",
+        "price": "11 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/166870231"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 18 700 км",
+        "price": "14 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171271664"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Onix",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 15 000 км",
+        "price": "7 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/162911561"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "ASX",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 180 000 км",
+        "price": "5 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171436734"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 58 000 км",
+        "price": "7 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171438968"
+    },
+    {
+        "name": "Zeekr",
+        "model": "X",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 4 000 км",
+        "price": "14 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170945922"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Genesis",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 58 000 км",
+        "price": "13 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170500362"
+    },
+    {
+        "name": "Nissan",
+        "model": "Teana",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 220 000 км",
+        "price": "4 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170941970"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) 2115",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 220 000 км",
+        "price": "2 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171095749"
+    },
+    {
+        "name": "Toyota",
+        "model": "Mark II",
+        "year": "1995 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 255 000 км",
+        "price": "3 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/131623918"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 363 000 км",
+        "price": "5 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171280969"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2007 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 363 000 км",
+        "price": "5 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171280969"
+    },
+    {
+        "name": "BMW",
+        "model": "iX",
+        "year": "2021 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 40 000 км",
+        "price": "35 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169005649"
+    },
+    {
+        "name": "BMW",
+        "model": "iX",
+        "year": "2014 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 97 000 км",
+        "price": "16 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171421436"
+    },
+    {
+        "name": "Changan",
+        "model": "UNI-K",
+        "year": "2023 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 8 000 км",
+        "price": "20 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170099715"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "GLS 450",
+        "year": "2019 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 93 000 км",
+        "price": "55 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/164843063"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2022 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 32 000 км",
+        "price": "14 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170861497"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "ML 400",
+        "year": "2014 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 110 000 км",
+        "price": "18 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171433879"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2023 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 9 400 км",
+        "price": "20 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170705431"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2011 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 230 000 км",
+        "price": "7 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170602649"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2013 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 172 000 км",
+        "price": "2 150 000 ₸",
+        "url": "https://kolesa.kz/a/show/171432685"
+    },
+    {
+        "name": "Toyota",
+        "model": "Highlander",
+        "year": "2013 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 187 000 км",
+        "price": "14 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170847519"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "На заказ",
+        "city": "Тараз",
+        "mileage": "с пробегом 75 000 км",
+        "price": "11 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171263372"
+    },
+    {
+        "name": "Kia",
+        "model": "Optima",
+        "year": "2015 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 136 000 км",
+        "price": "8 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170516609"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2024 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 6 км",
+        "price": "8 550 000 ₸",
+        "url": "https://kolesa.kz/a/show/170824491"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2024 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 6 км",
+        "price": "8 550 000 ₸",
+        "url": "https://kolesa.kz/a/show/170824491"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 7 300 км",
+        "price": "15 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170819623"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2022 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 20 000 км",
+        "price": "16 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171429610"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2013 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 175 000 км",
+        "price": "10 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171428776"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2016 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 128 000 км",
+        "price": "12 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170814541"
+    },
+    {
+        "name": "Kia",
+        "model": "Sportage",
+        "year": "2024 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 1 800 км",
+        "price": "14 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/167750702"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "ASX",
+        "year": "2013 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 117 000 км",
+        "price": "7 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170756377"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Nexia",
+        "year": "2021 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 106 000 км",
+        "price": "3 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171420705"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2012 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 159 000 км",
+        "price": "9 999 999 ₸",
+        "url": "https://kolesa.kz/a/show/162968399"
+    },
+    {
+        "name": "Nissan",
+        "model": "Patrol",
+        "year": "2000 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 320 000 км",
+        "price": "11 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170950165"
+    },
+    {
+        "name": "Nissan",
+        "model": "Patrol",
+        "year": "2017 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 103 000 км",
+        "price": "3 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/170805299"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 220",
+        "year": "1994 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 257 000 км",
+        "price": "2 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171362811"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2022 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 29 000 км",
+        "price": "13 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/154651463"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2011 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 180 000 км",
+        "price": "18 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/157214865"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2007 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 262 000 км",
+        "price": "5 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171422029"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2021 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 69 800 км",
+        "price": "16 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170506992"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2011 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 260 000 км",
+        "price": "17 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171414064"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 65 000 км",
+        "price": "12 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170791959"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 6 590 км",
+        "price": "10 599 000 ₸",
+        "url": "https://kolesa.kz/a/show/168945478"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 200 000 км",
+        "price": "6 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170771123"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 200",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 33 000 км",
+        "price": "29 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/167082877"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 200",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 1 500 км",
+        "price": "8 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/168031027"
+    },
+    {
+        "name": "Lexus",
+        "model": "ES 250",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 50 000 км",
+        "price": "23 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/161562736"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Touareg",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 55 000 км",
+        "price": "29 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/145055044"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2002 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 225 000 км",
+        "price": "3 690 000 ₸",
+        "url": "https://kolesa.kz/a/show/167799076"
+    },
+    {
+        "name": "Toyota",
+        "model": "Highlander",
+        "year": "2011 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 200 366 км",
+        "price": "11 430 000 ₸",
+        "url": "https://kolesa.kz/a/show/170647999?fromUserSearch=1"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2024 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 24 км",
+        "price": "8 550 000 ₸",
+        "url": "https://kolesa.kz/a/show/170319380"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 174 619 км",
+        "price": "7 380 000 ₸",
+        "url": "https://kolesa.kz/a/show/170061261?fromUserSearch=1"
+    },
+    {
+        "name": "Lexus",
+        "model": "LX 570",
+        "year": "2009 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 250 000 км",
+        "price": "18 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170637807"
+    },
+    {
+        "name": "Ravon",
+        "model": "Nexia R3",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 75 184 км",
+        "price": "4 730 000 ₸",
+        "url": "https://kolesa.kz/a/show/169956247?fromUserSearch=1"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cruze",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 276 156 км",
+        "price": "4 850 000 ₸",
+        "url": "https://kolesa.kz/a/show/169381978"
+    },
+    {
+        "name": "Ravon",
+        "model": "Nexia R3",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 77 649 км",
+        "price": "4 640 000 ₸",
+        "url": "https://kolesa.kz/a/show/169380636?fromUserSearch=1"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 250 000 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/163912987"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 202 653 км",
+        "price": "7 280 000 ₸",
+        "url": "https://kolesa.kz/a/show/169279175?fromUserSearch=1"
+    },
+    {
+        "name": "Toyota",
+        "model": "Yaris",
+        "year": "2008 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 104 000 км",
+        "price": "4 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464687"
+    },
+    {
+        "name": "Lexus",
+        "model": "LX 570",
+        "year": "2008 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 177 000 км",
+        "price": "17 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464171"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 232 км",
+        "price": "9 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/164215459"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 37 000 км",
+        "price": "11 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464664"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 320 528 км",
+        "price": "6 310 000 ₸",
+        "url": "https://kolesa.kz/a/show/171179055"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 64 048 км",
+        "price": "6 690 000 ₸",
+        "url": "https://kolesa.kz/a/show/166887270"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Montero Sport",
+        "year": "2000 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 5 190 км",
+        "price": "4 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464392"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 58 475 км",
+        "price": "9 730 000 ₸",
+        "url": "https://kolesa.kz/a/show/171276369?fromUserSearch=1"
+    },
+    {
+        "name": "Ravon",
+        "model": "Nexia R3",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 249 919 км",
+        "price": "4 230 000 ₸",
+        "url": "https://kolesa.kz/a/show/171125503?fromUserSearch=1"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 16 164 км",
+        "price": "6 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/169631056?fromUserSearch=1"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 79 499 км",
+        "price": "6 680 000 ₸",
+        "url": "https://kolesa.kz/a/show/169550290?fromUserSearch=1"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 202 739 км",
+        "price": "9 310 000 ₸",
+        "url": "https://kolesa.kz/a/show/169490858?fromUserSearch=1"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 57 180 км",
+        "price": "12 210 000 ₸",
+        "url": "https://kolesa.kz/a/show/169376011?fromUserSearch=1"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 81 008 км",
+        "price": "12 720 000 ₸",
+        "url": "https://kolesa.kz/a/show/169048747?fromUserSearch=1"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 475 639 км",
+        "price": "5 390 000 ₸",
+        "url": "https://kolesa.kz/a/show/166983453?fromUserSearch=1"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 213 759 км",
+        "price": "9 310 000 ₸",
+        "url": "https://kolesa.kz/a/show/171276511"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Polo",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 219 749 км",
+        "price": "4 260 000 ₸",
+        "url": "https://kolesa.kz/a/show/169845929"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 164 114 км",
+        "price": "7 340 000 ₸",
+        "url": "https://kolesa.kz/a/show/168838450"
+    },
+    {
+        "name": "Subaru",
+        "model": "Outback",
+        "year": "2006 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 354 409 км",
+        "price": "6 030 000 ₸",
+        "url": "https://kolesa.kz/a/show/168518482"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 152 064 км",
+        "price": "6 750 000 ₸",
+        "url": "https://kolesa.kz/a/show/166505204"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 269 470 км",
+        "price": "4 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/165716433"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 92 136 км",
+        "price": "10 240 000 ₸",
+        "url": "https://kolesa.kz/a/show/164749154"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat",
+        "year": "1992 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 400 000 км",
+        "price": "900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464431"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Monza",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 1 731 км",
+        "price": "8 220 000 ₸",
+        "url": "https://kolesa.kz/a/show/170252271"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 84 121 км",
+        "price": "6 160 000 ₸",
+        "url": "https://kolesa.kz/a/show/168813425"
+    },
+    {
+        "name": "Lexus",
+        "model": "LX 470",
+        "year": "2004 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 563 150 км",
+        "price": "8 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/167592943"
+    },
+    {
+        "name": "Toyota",
+        "model": "Estima",
+        "year": "2011 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 150 000 км",
+        "price": "8 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170458879"
+    },
+    {
+        "name": "Toyota",
+        "model": "Estima",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 265 000 км",
+        "price": "2 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/170901317"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 59 000 км",
+        "price": "17 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171170181"
+    },
+    {
+        "name": "Nissan",
+        "model": "X-Trail",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 125 000 км",
+        "price": "9 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/158192089"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Arteon",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 16 000 км",
+        "price": "16 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/166323083"
+    },
+    {
+        "name": "Renault",
+        "model": "Arkana",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 28 000 км",
+        "price": "10 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/164912646"
+    },
+    {
+        "name": "Nissan",
+        "model": "Qashqai",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 260 000 км",
+        "price": "5 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171258840"
+    },
+    {
+        "name": "Toyota",
+        "model": "Mark II",
+        "year": "1994 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 43 000 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171074972"
+    },
+    {
+        "name": "Toyota",
+        "model": "Previa",
+        "year": "1992 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 235 000 км",
+        "price": "1 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171323040"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2008 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 297 710 км",
+        "price": "2 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/169834008"
+    },
+    {
+        "name": "Land",
+        "model": "Rover Defender",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 6 000 км",
+        "price": "62 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171309166"
+    },
+    {
+        "name": "Land",
+        "model": "Rover Defender",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 6 000 км",
+        "price": "62 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171309166"
+    },
+    {
+        "name": "Lexus",
+        "model": "RX 350",
+        "year": "2010 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 185 035 км",
+        "price": "12 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169039453"
+    },
+    {
+        "name": "Infiniti",
+        "model": "QX80",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 11 000 км",
+        "price": "37 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171336692"
+    },
+    {
+        "name": "Nissan",
+        "model": "Teana",
+        "year": "2008 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 246 728 км",
+        "price": "5 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/169795064"
+    },
+    {
+        "name": "BMW",
+        "model": "520",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 18 000 км",
+        "price": "26 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171330579"
+    },
+    {
+        "name": "Nissan",
+        "model": "Quest",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 233 160 км",
+        "price": "11 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/161255791"
+    },
+    {
+        "name": "Toyota",
+        "model": "4Runner",
+        "year": "На заказ",
+        "city": "Алматы",
+        "mileage": "с пробегом 117 384 км",
+        "price": "11 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171324845"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 8 900 км",
+        "price": "14 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171321300"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 108 000 км",
+        "price": "24 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171156015"
+    },
+    {
+        "name": "Zeekr",
+        "model": "001",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 8 000 км",
+        "price": "18 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/161191806"
+    },
+    {
+        "name": "Audi",
+        "model": "80",
+        "year": "1990 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 450 000 км",
+        "price": "1 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/155790530"
+    },
+    {
+        "name": "Changan",
+        "model": "CS55 Plus",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 8 000 км",
+        "price": "10 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171249525"
+    },
+    {
+        "name": "Mazda",
+        "model": "3",
+        "year": "2010 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 200 000 км",
+        "price": "4 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/171216941"
+    },
+    {
+        "name": "Kia",
+        "model": "K8",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 26 000 км",
+        "price": "20 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/157752164"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Grandeur",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 2 000 км",
+        "price": "24 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170394499"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 29 444 км",
+        "price": "12 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171189463"
+    },
+    {
+        "name": "Land",
+        "model": "Rover Discovery",
+        "year": "2005 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 204 000 км",
+        "price": "8 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170025167"
+    },
+    {
+        "name": "Kia",
+        "model": "Cee'd",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 108 000 км",
+        "price": "6 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171179895"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 121 000 км",
+        "price": "5 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171178150"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 75 000 км",
+        "price": "31 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169393540"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 69 000 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171143980"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2006 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 321 600 км",
+        "price": "6 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171135475"
+    },
+    {
+        "name": "Kia",
+        "model": "Optima",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 25 744 км",
+        "price": "9 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/171129294"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 23 000 км",
+        "price": "15 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170409289"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 123 150 км",
+        "price": "8 150 000 ₸",
+        "url": "https://kolesa.kz/a/show/170188884"
+    },
+    {
+        "name": "Changan",
+        "model": "CS75",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 32 000 км",
+        "price": "9 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/165957506"
+    },
+    {
+        "name": "Genesis",
+        "model": "G70",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 15 000 км",
+        "price": "19 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/148013377"
+    },
+    {
+        "name": "Kia",
+        "model": "Optima",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 25 744 км",
+        "price": "9 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/171129294"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 23 000 км",
+        "price": "15 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170409289"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 123 150 км",
+        "price": "8 150 000 ₸",
+        "url": "https://kolesa.kz/a/show/170188884"
+    },
+    {
+        "name": "Changan",
+        "model": "CS75",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 32 000 км",
+        "price": "9 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/165957506"
+    },
+    {
+        "name": "Genesis",
+        "model": "G70",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 15 000 км",
+        "price": "19 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/148013377"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 130 248 км",
+        "price": "5 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/168062683"
+    },
+    {
+        "name": "Kia",
+        "model": "Optima",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 150 000 км",
+        "price": "7 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171030693"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 66 900 км",
+        "price": "12 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169443324"
+    },
+    {
+        "name": "Kia",
+        "model": "Seltos",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 32 км",
+        "price": "9 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/170999406"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 40 000 км",
+        "price": "7 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171009480"
+    },
+    {
+        "name": "Toyota",
+        "model": "Tundra",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 98 000 км",
+        "price": "15 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/164883471"
+    },
+    {
+        "name": "Nissan",
+        "model": "Patrol",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 200 000 км",
+        "price": "17 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170995949"
+    },
+    {
+        "name": "Kia",
+        "model": "Cerato",
+        "year": "2024 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 50 км",
+        "price": "9 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/170989293"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 105 000 км",
+        "price": "5 050 000 ₸",
+        "url": "https://kolesa.kz/a/show/170987406"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 2 300 км",
+        "price": "17 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170832841"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2014 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 105 000 км",
+        "price": "5 050 000 ₸",
+        "url": "https://kolesa.kz/a/show/170987406"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2023 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 2 300 км",
+        "price": "17 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170832841"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat",
+        "year": "2017 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 140 000 км",
+        "price": "9 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170097533"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Tiguan",
+        "year": "2021 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 71 000 км",
+        "price": "13 990 000 ₸",
+        "url": "https://kolesa.kz/a/show/160365515"
+    },
+    {
+        "name": "Toyota",
+        "model": "Vellfire",
+        "year": "На заказ",
+        "city": "Тараз",
+        "mileage": "с пробегом 111 000 км",
+        "price": "6 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/162919946"
+    },
+    {
+        "name": "Toyota",
+        "model": "Vellfire",
+        "year": "2014 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 220 000 км",
+        "price": "3 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170904184"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2014 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 177 952 км",
+        "price": "8 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/166708384"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2015 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 150 000 км",
+        "price": "11 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/168010540"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2022 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 16 458 км",
+        "price": "17 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/170539708"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2021 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 40 000 км",
+        "price": "16 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/151332726"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Polo",
+        "year": "2017 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 87 500 км",
+        "price": "5 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169368301"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2024 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 50 км",
+        "price": "16 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/170009456"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Palisade",
+        "year": "2023 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 50 000 км",
+        "price": "27 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171448464"
+    },
+    {
+        "name": "BMW",
+        "model": "540",
+        "year": "2021 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 20 000 км",
+        "price": "35 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170813264"
+    },
+    {
+        "name": "Kia",
+        "model": "Sportage",
+        "year": "2023 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 22 000 км",
+        "price": "17 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171450365"
+    },
+    {
+        "name": "Toyota",
+        "model": "Avensis",
+        "year": "2004 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 274 000 км",
+        "price": "5 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170780373"
+    },
+    {
+        "name": "Lexus",
+        "model": "ES 350",
+        "year": "2013 г.",
+        "city": "Тараз",
+        "mileage": "с пробегом 150 000 км",
+        "price": "7 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/170759705"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Tahoe",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 3 км",
+        "price": "55 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171442271"
+    },
+    {
+        "name": "BMW",
+        "model": "525",
+        "year": "1995 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 230 000 км",
+        "price": "3 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171426995"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Montero Sport",
+        "year": "2002 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 328 836 км",
+        "price": "5 999 999 ₸",
+        "url": "https://kolesa.kz/a/show/171349940"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Eclipse",
+        "year": "1996 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 255 000 км",
+        "price": "2 450 000 ₸",
+        "url": "https://kolesa.kz/a/show/171419407"
+    },
+    {
+        "name": "Lexus",
+        "model": "ES 250",
+        "year": "2013 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 199 000 км",
+        "price": "12 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170776400"
+    },
+    {
+        "name": "Nissan",
+        "model": "Patrol",
+        "year": "2001 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 303 336 км",
+        "price": "11 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170745472"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2022 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 58 254 км",
+        "price": "6 370 000 ₸",
+        "url": "https://kolesa.kz/a/show/170556105"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2021 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 62 015 км",
+        "price": "8 340 000 ₸",
+        "url": "https://kolesa.kz/a/show/169838040"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "CLS 350",
+        "year": "2008 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 181 000 км",
+        "price": "10 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170623844"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2020 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 64 598 км",
+        "price": "12 040 000 ₸",
+        "url": "https://kolesa.kz/a/show/169535985"
+    },
+    {
+        "name": "Nissan",
+        "model": "Juke",
+        "year": "2014 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 142 551 км",
+        "price": "6 520 000 ₸",
+        "url": "https://kolesa.kz/a/show/169160552"
+    },
+    {
+        "name": "Nissan",
+        "model": "Terrano",
+        "year": "2015 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 94 500 км",
+        "price": "6 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171413211"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2022 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 30 748 км",
+        "price": "6 310 000 ₸",
+        "url": "https://kolesa.kz/a/show/168182429"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2015 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 97 000 км",
+        "price": "13 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/167872787"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2013 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 169 961 км",
+        "price": "9 340 000 ₸",
+        "url": "https://kolesa.kz/a/show/168177964"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 169 961 км",
+        "price": "9 340 000 ₸",
+        "url": "https://kolesa.kz/a/show/168177964"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 6 500 км",
+        "price": "12 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171406602"
+    },
+    {
+        "name": "Nissan",
+        "model": "Qashqai",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 131 705 км",
+        "price": "7 510 000 ₸",
+        "url": "https://kolesa.kz/a/show/167368699"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 222 000 км",
+        "price": "5 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171402085"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat",
+        "year": "2009 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 382 155 км",
+        "price": "9 940 000 ₸",
+        "url": "https://kolesa.kz/a/show/166505403"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 62 929 км",
+        "price": "5 555 555 ₸",
+        "url": "https://kolesa.kz/a/show/171398373"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2011 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 269 592 км",
+        "price": "7 190 000 ₸",
+        "url": "https://kolesa.kz/a/show/164778726"
+    },
+    {
+        "name": "Lexus",
+        "model": "RX 300",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 38 000 км",
+        "price": "25 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171368376"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 220 000 км",
+        "price": "8 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464345"
+    },
+    {
+        "name": "Lexus",
+        "model": "LX 570",
+        "year": "2008 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 270 000 км",
+        "price": "16 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/164311239"
+    },
+    {
+        "name": "Lexus",
+        "model": "LX 570",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 175 000 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170467686"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 82 970 км",
+        "price": "9 020 000 ₸",
+        "url": "https://kolesa.kz/a/show/169990479"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Nexia",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 68 672 км",
+        "price": "5 750 000 ₸",
+        "url": "https://kolesa.kz/a/show/169954314"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 176 746 км",
+        "price": "8 170 000 ₸",
+        "url": "https://kolesa.kz/a/show/169445590"
+    },
+    {
+        "name": "Ravon",
+        "model": "R2",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 43 438 км",
+        "price": "4 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/168913431"
+    },
+    {
+        "name": "Opel",
+        "model": "Astra",
+        "year": "1993 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 777 777 км",
+        "price": "500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464320"
+    },
+    {
+        "name": "Lexus",
+        "model": "NX 300",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 131 313 км",
+        "price": "14 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464057"
+    },
+    {
+        "name": "Lexus",
+        "model": "NX 300",
+        "year": "2008 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 150 000 км",
+        "price": "1 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464266"
+    },
+    {
+        "name": "Lexus",
+        "model": "RX 300",
+        "year": "2002 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 407 077 км",
+        "price": "6 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171463463"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "190",
+        "year": "2023 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 13 000 км",
+        "price": "6 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171463791"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2022 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 38 165 км",
+        "price": "12 040 000 ₸",
+        "url": "https://kolesa.kz/a/show/170037123?fromUserSearch=1"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2017 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 186 027 км",
+        "price": "6 940 000 ₸",
+        "url": "https://kolesa.kz/a/show/167609614"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) 2115",
+        "year": "2004 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 148 000 км",
+        "price": "1 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171463526"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2014 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 145 000 км",
+        "price": "5 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/171460718"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2014 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 151 000 км",
+        "price": "6 299 999 ₸",
+        "url": "https://kolesa.kz/a/show/171464188"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 320",
+        "year": "1996 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 256 000 км",
+        "price": "4 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464170"
+    },
+    {
+        "name": "Toyota",
+        "model": "Avensis",
+        "year": "2013 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 220 553 км",
+        "price": "7 130 000 ₸",
+        "url": "https://kolesa.kz/a/show/171236480"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Nexia",
+        "year": "2022 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 47 337 км",
+        "price": "5 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/167610277"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2013 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 250 275 км",
+        "price": "5 890 000 ₸",
+        "url": "https://kolesa.kz/a/show/167021614"
+    },
+    {
+        "name": "Nissan",
+        "model": "X-Trail",
+        "year": "2022 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 42 000 км",
+        "price": "13 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171462555"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2022 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 111 674 км",
+        "price": "6 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171463447"
+    },
+    {
+        "name": "Mazda",
+        "model": "626",
+        "year": "1999 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 373 000 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171464243"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2020 г.",
+        "city": "Кызылорда",
+        "mileage": "с пробегом 91 929 км",
+        "price": "11 940 000 ₸",
+        "url": "https://kolesa.kz/a/show/170506942"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 72 576 км",
+        "price": "6 080 000 ₸",
+        "url": "https://kolesa.kz/a/show/169445277?fromUserSearch=1"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2010 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 248 918 км",
+        "price": "8 090 000 ₸",
+        "url": "https://kolesa.kz/a/show/169061711"
+    },
+    {
+        "name": "Kia",
+        "model": "Cee'd",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 105 122 км",
+        "price": "6 970 000 ₸",
+        "url": "https://kolesa.kz/a/show/168640155"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 142 201 км",
+        "price": "11 190 000 ₸",
+        "url": "https://kolesa.kz/a/show/168344674"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 155 105 км",
+        "price": "7 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/168131876"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 70 390 км",
+        "price": "8 280 000 ₸",
+        "url": "https://kolesa.kz/a/show/166151142"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 700 км",
+        "price": "19 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171462985"
+    },
+    {
+        "name": "Lexus",
+        "model": "NX 200",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 68 000 км",
+        "price": "16 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171463212"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 210 000 км",
+        "price": "26 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/165847318"
+    },
+    {
+        "name": "Kia",
+        "model": "Sportage",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 200 000 км",
+        "price": "5 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170705198"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2024 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 14 000 км",
+        "price": "15 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171064588"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "S 350",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 315 000 км",
+        "price": "6 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171124686"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "S 350",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 99 000 км",
+        "price": "32 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169802558"
+    },
+    {
+        "name": "HiPhi",
+        "model": "Z",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 5 000 км",
+        "price": "44 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/163691441"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 34 000 км",
+        "price": "49 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171118495"
+    },
+    {
+        "name": "Renault",
+        "model": "Logan",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 64 000 км",
+        "price": "4 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/169012641"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Palisade",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 34 000 км",
+        "price": "28 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/147595618"
+    },
+    {
+        "name": "Porsche",
+        "model": "Cayenne Coupe",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 13 000 км",
+        "price": "73 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170997216"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 180 369 км",
+        "price": "12 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/164551670"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 100 675 км",
+        "price": "12 320 000 ₸",
+        "url": "https://kolesa.kz/a/show/170940631"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 114 860 км",
+        "price": "34 735 000 ₸",
+        "url": "https://kolesa.kz/a/show/170462658"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 72 367 км",
+        "price": "15 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170787283"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 150 242 км",
+        "price": "22 106 000 ₸",
+        "url": "https://kolesa.kz/a/show/166392348"
+    },
+    {
+        "name": "Nissan",
+        "model": "Juke",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 53 500 км",
+        "price": "6 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171076898"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) Largus",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 328 000 км",
+        "price": "3 450 000 ₸",
+        "url": "https://kolesa.kz/a/show/171071771"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 73 000 км",
+        "price": "16 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171063520"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 150 000 км",
+        "price": "6 990 000 ₸",
+        "url": "https://kolesa.kz/a/show/171196011"
+    },
+    {
+        "name": "ГАЗ",
+        "model": "ГАЗель",
+        "year": "2017 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 250 000 км",
+        "price": "15 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171046394"
+    },
+    {
+        "name": "Nissan",
+        "model": "Patrol",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 245 000 км",
+        "price": "13 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/166697452"
+    },
+    {
+        "name": "Honda",
+        "model": "CR-V",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 135 000 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171031094"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) XRAY",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 115 000 км",
+        "price": "5 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/171016326"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 80 000 км",
+        "price": "14 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171014741"
+    },
+    {
+        "name": "BMW",
+        "model": "X6 M",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 1 000 км",
+        "price": "105 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170994809"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2008 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 258 000 км",
+        "price": "18 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/158150281"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 230",
+        "year": "1992 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 230 000 км",
+        "price": "1 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/168349831"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "Vito",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 2 300 км",
+        "price": "56 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170993869"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2002 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 535 000 км",
+        "price": "2 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/169363164"
+    },
+    {
+        "name": "Toyota",
+        "model": "Hilux Surf",
+        "year": "2004 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 186 000 км",
+        "price": "10 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170065178"
+    },
+    {
+        "name": "Nissan",
+        "model": "Liberty",
+        "year": "2002 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 326 000 км",
+        "price": "2 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/170980044"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Monza",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 15 км",
+        "price": "7 190 000 ₸",
+        "url": "https://kolesa.kz/a/show/171363173"
+    },
+    {
+        "name": "Mazda",
+        "model": "Tribute",
+        "year": "2002 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 251 000 км",
+        "price": "3 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/165088342"
+    },
+    {
+        "name": "Nissan",
+        "model": "Primera",
+        "year": "1996 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 450 000 км",
+        "price": "1 550 000 ₸",
+        "url": "https://kolesa.kz/a/show/169374615"
+    },
+    {
+        "name": "Nissan",
+        "model": "Primera",
+        "year": "2011 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 209 000 км",
+        "price": "13 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/155240631"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2024 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 1 500 км",
+        "price": "14 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/169938894"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "S 350",
+        "year": "2010 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 190 000 км",
+        "price": "11 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170220212"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 9 500 км",
+        "price": "17 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/169539299"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 280",
+        "year": "1996 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 300 000 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171361412"
+    },
+    {
+        "name": "Zeekr",
+        "model": "001",
+        "year": "2023 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 17 000 км",
+        "price": "20 999 999 ₸",
+        "url": "https://kolesa.kz/a/show/170931367"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2007 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 175 000 км",
+        "price": "7 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171347467"
+    },
+    {
+        "name": "Lexus",
+        "model": "GX 470",
+        "year": "2005 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 240 000 км",
+        "price": "11 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170919358"
+    },
+    {
+        "name": "Lexus",
+        "model": "GX 470",
+        "year": "1999 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 80 000 км",
+        "price": "5 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171344670"
+    },
+    {
+        "name": "Lexus",
+        "model": "GX 470",
+        "year": "2014 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 81 000 км",
+        "price": "24 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170910150"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2019 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 30 571 км",
+        "price": "10 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171340319"
+    },
+    {
+        "name": "Jaguar",
+        "model": "E-Pace",
+        "year": "2018 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 70 000 км",
+        "price": "14 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/170610759"
+    },
+    {
+        "name": "ГАЗ",
+        "model": "ГАЗель",
+        "year": "2012 г.",
+        "city": "Астана",
+        "mileage": "с пробегом 326 000 км",
+        "price": "7 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170893882"
+    },
+    {
+        "name": "Lexus",
+        "model": "GX 470",
+        "year": "2005 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 240 000 км",
+        "price": "11 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170919358"
+    },
+    {
+        "name": "Lexus",
+        "model": "GX 470",
+        "year": "1999 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 80 000 км",
+        "price": "5 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171344670"
+    },
+    {
+        "name": "Lexus",
+        "model": "GX 470",
+        "year": "2014 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 81 000 км",
+        "price": "24 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170910150"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2019 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 30 571 км",
+        "price": "10 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171340319"
+    },
+    {
+        "name": "Jaguar",
+        "model": "E-Pace",
+        "year": "2018 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 70 000 км",
+        "price": "14 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/170610759"
+    },
+    {
+        "name": "ГАЗ",
+        "model": "ГАЗель",
+        "year": "2012 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 326 000 км",
+        "price": "7 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170893882"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2018 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 37 000 км",
+        "price": "12 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/170184359"
+    },
+    {
+        "name": "Subaru",
+        "model": "Impreza",
+        "year": "1995 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 250 000 км",
+        "price": "2 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/165180332"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2022 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 39 000 км",
+        "price": "10 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/170788015"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Mirage",
+        "year": "2021 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 32 000 км",
+        "price": "8 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171327262"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Passat",
+        "year": "1999 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 203 000 км",
+        "price": "2 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171323856"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Getz",
+        "year": "2010 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 200 419 км",
+        "price": "3 990 000 ₸",
+        "url": "https://kolesa.kz/a/show/170740852"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "C 200",
+        "year": "2001 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 280 000 км",
+        "price": "3 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169713353"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2018 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 81 168 км",
+        "price": "8 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/170839547"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Eclipse Cross",
+        "year": "2022 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 7 000 км",
+        "price": "13 490 000 ₸",
+        "url": "https://kolesa.kz/a/show/162964509"
+    },
+    {
+        "name": "Toyota",
+        "model": "Alphard",
+        "year": "2011 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 217 000 км",
+        "price": "10 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/165897835"
+    },
+    {
+        "name": "EXEED",
+        "model": "LX",
+        "year": "2022 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 72 000 км",
+        "price": "10 490 000 ₸",
+        "url": "https://kolesa.kz/a/show/161340742"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 230",
+        "year": "1996 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 50 000 км",
+        "price": "2 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171027265"
+    },
+    {
+        "name": "Mazda",
+        "model": "CX-5",
+        "year": "2014 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 203 000 км",
+        "price": "7 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/170826137"
+    },
+    {
+        "name": "Toyota",
+        "model": "Highlander",
+        "year": "2023 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 2 000 км",
+        "price": "29 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171309997"
+    },
+    {
+        "name": "Infiniti",
+        "model": "QX80",
+        "year": "2014 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 105 000 км",
+        "price": "15 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/170847637"
+    },
+    {
+        "name": "JAC",
+        "model": "J7",
+        "year": "2021 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 50 000 км",
+        "price": "7 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/170814425"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2021 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 35 000 км",
+        "price": "17 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/130133017"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2023 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 5 000 км",
+        "price": "13 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171293568"
+    },
+    {
+        "name": "Subaru",
+        "model": "Ascent",
+        "year": "2019 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 69 000 км",
+        "price": "14 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171220996"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2022 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 45 000 км",
+        "price": "18 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/168376904"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2021 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 77 000 км",
+        "price": "15 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170862325"
+    },
+    {
+        "name": "BMW",
+        "model": "540",
+        "year": "2017 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 82 000 км",
+        "price": "17 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171288280"
+    },
+    {
+        "name": "Kia",
+        "model": "Sportage",
+        "year": "2023 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 15 000 км",
+        "price": "18 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/170335667"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2021 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 46 000 км",
+        "price": "6 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/158065368"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Polo",
+        "year": "2002 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 177 161 км",
+        "price": "2 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/170914596"
+    },
+    {
+        "name": "Volkswagen",
+        "model": "Polo",
+        "year": "2012 г.",
+        "city": "Кокшетау",
+        "mileage": "с пробегом 199 000 км",
+        "price": "19 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170482593"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2009 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 255 000 км",
+        "price": "20 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/165908029"
+    },
+    {
+        "name": "Audi",
+        "model": "Q7",
+        "year": "2007 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 248 000 км",
+        "price": "6 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/115773813"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "Sprinter",
+        "year": "2009 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 111 111 км",
+        "price": "10 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/169480685"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 240",
+        "year": "2004 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 256 000 км",
+        "price": "3 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/163336119"
+    },
+    {
+        "name": "Toyota",
+        "model": "Hilux",
+        "year": "1997 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 130 000 км",
+        "price": "3 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170752910"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2015 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 147 000 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171216956"
+    },
+    {
+        "name": "Zeekr",
+        "model": "001",
+        "year": "2023 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 10 000 км",
+        "price": "22 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170727221"
+    },
+    {
+        "name": "Lexus",
+        "model": "LX 570",
+        "year": "2014 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 160 км",
+        "price": "33 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169816698"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2021 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 23 000 км",
+        "price": "12 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/171201013"
+    },
+    {
+        "name": "BMW",
+        "model": "X5",
+        "year": "2021 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 28 000 км",
+        "price": "42 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171204760"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2014 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 210 000 км",
+        "price": "6 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171189704"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2013 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 225 000 км",
+        "price": "11 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171179829"
+    },
+    {
+        "name": "Audi",
+        "model": "TT",
+        "year": "2008 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 59 000 км",
+        "price": "9 999 999 ₸",
+        "url": "https://kolesa.kz/a/show/155319302"
+    },
+    {
+        "name": "Porsche",
+        "model": "Cayenne",
+        "year": "2024 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 5 000 км",
+        "price": "70 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/169701876"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2017 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 92 844 км",
+        "price": "7 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/170131188"
+    },
+    {
+        "name": "Nissan",
+        "model": "Juke",
+        "year": "2013 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 91 191 км",
+        "price": "7 050 000 ₸",
+        "url": "https://kolesa.kz/a/show/168133865"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2022 г.",
+        "city": "Атырау",
+        "mileage": "с пробегом 21 000 км",
+        "price": "20 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169130309"
+    },
+    {
+        "name": "BMW",
+        "model": "750",
+        "year": "2005 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 230 км",
+        "price": "4 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171463942"
+    },
+    {
+        "name": "Subaru",
+        "model": "Legacy",
+        "year": "2007 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 126 000 км",
+        "price": "5 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171462959"
+    },
+    {
+        "name": "Skoda",
+        "model": "Rapid",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 112 839 км",
+        "price": "7 040 000 ₸",
+        "url": "https://kolesa.kz/a/show/170797721"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 58 372 км",
+        "price": "6 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/170172677"
+    },
+    {
+        "name": "Nissan",
+        "model": "Qashqai",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 210 349 км",
+        "price": "5 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/168858428"
+    },
+    {
+        "name": "Toyota",
+        "model": "Ipsum",
+        "year": "2003 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 200 000 км",
+        "price": "4 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171463982"
+    },
+    {
+        "name": "Kia",
+        "model": "Picanto",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 76 000 км",
+        "price": "5 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169474498"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Tracker",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 85 000 км",
+        "price": "6 750 000 ₸",
+        "url": "https://kolesa.kz/a/show/169229773"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Aveo",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 170 000 км",
+        "price": "3 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/169584645"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 195 608 км",
+        "price": "4 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/171394406"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Nexia",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 53 867 км",
+        "price": "5 540 000 ₸",
+        "url": "https://kolesa.kz/a/show/170270060"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 52 189 км",
+        "price": "6 670 000 ₸",
+        "url": "https://kolesa.kz/a/show/169484570?fromUserSearch=1"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2010 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 198 054 км",
+        "price": "6 570 000 ₸",
+        "url": "https://kolesa.kz/a/show/169474972"
+    },
+    {
+        "name": "Nissan",
+        "model": "R'nessa",
+        "year": "1998 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 330 352 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171462897"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 67 298 км",
+        "price": "11 830 000 ₸",
+        "url": "https://kolesa.kz/a/show/169113680"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 88 858 км",
+        "price": "6 430 000 ₸",
+        "url": "https://kolesa.kz/a/show/168857419"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2010 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 207 км",
+        "price": "7 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/167180334"
+    },
+    {
+        "name": "Daewoo",
+        "model": "Nexia",
+        "year": "2011 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 180 000 км",
+        "price": "1 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171462870"
+    },
+    {
+        "name": "Skoda",
+        "model": "Rapid",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 150 000 км",
+        "price": "4 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/171430170"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 252 216 км",
+        "price": "9 720 000 ₸",
+        "url": "https://kolesa.kz/a/show/171172720"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 71 км",
+        "price": "10 120 000 ₸",
+        "url": "https://kolesa.kz/a/show/170162574"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2011 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 211 072 км",
+        "price": "6 690 000 ₸",
+        "url": "https://kolesa.kz/a/show/168673791"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 81 281 км",
+        "price": "10 760 000 ₸",
+        "url": "https://kolesa.kz/a/show/168526405"
+    },
+    {
+        "name": "Honda",
+        "model": "Accord",
+        "year": "1998 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 290 000 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171462007"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 50 000 км",
+        "price": "7 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171462956"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 143 484 км",
+        "price": "2 600 000 ₸",
+        "url": "https://kolesa.kz/a/show/171338396"
+    },
+    {
+        "name": "Kia",
+        "model": "Ray",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 20 000 км",
+        "price": "6 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171338489"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2006 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 210 000 км",
+        "price": "7 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171327530"
+    },
+    {
+        "name": "Mitsubishi",
+        "model": "Delica",
+        "year": "1997 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 300 000 км",
+        "price": "2 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/151258861"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Lacetti",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 11 000 км",
+        "price": "7 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/171314462"
+    },
+    {
+        "name": "Li",
+        "model": "L7",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 5 500 км",
+        "price": "23 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/165597857"
+    },
+    {
+        "name": "Li",
+        "model": "L7",
+        "year": "2023 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 5 500 км",
+        "price": "23 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/165597857"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Santa Fe",
+        "year": "2023 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 5 000 км",
+        "price": "22 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/171298240"
+    },
+    {
+        "name": "Kia",
+        "model": "Sportage",
+        "year": "2014 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 193 655 км",
+        "price": "7 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/159220244"
+    },
+    {
+        "name": "Kia",
+        "model": "Sportage",
+        "year": "2019 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 89 000 км",
+        "price": "53 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171291519"
+    },
+    {
+        "name": "Toyota",
+        "model": "Voxy",
+        "year": "2007 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 293 000 км",
+        "price": "3 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171281990"
+    },
+    {
+        "name": "Renault",
+        "model": "Arkana",
+        "year": "2019 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 55 000 км",
+        "price": "7 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/156027578"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2020 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 55 000 км",
+        "price": "8 990 000 ₸",
+        "url": "https://kolesa.kz/a/show/171278182"
+    },
+    {
+        "name": "Kia",
+        "model": "Rio",
+        "year": "2006 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 300 000 км",
+        "price": "3 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171276505"
+    },
+    {
+        "name": "Audi",
+        "model": "80",
+        "year": "1992 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 53 000 км",
+        "price": "1 650 000 ₸",
+        "url": "https://kolesa.kz/a/show/171261432"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2023 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 31 000 км",
+        "price": "6 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171249849"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "S 320",
+        "year": "1995 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 298 500 км",
+        "price": "4 570 000 ₸",
+        "url": "https://kolesa.kz/a/show/171115658"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "S 320",
+        "year": "2004 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 156 000 км",
+        "price": "12 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170338452"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2021 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 93 691 км",
+        "price": "7 290 000 ₸",
+        "url": "https://kolesa.kz/a/show/171187082"
+    },
+    {
+        "name": "ВАЗ",
+        "model": "(Lada) 2115",
+        "year": "2002 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 25 000 км",
+        "price": "650 000 ₸",
+        "url": "https://kolesa.kz/a/show/171171235"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Cobalt",
+        "year": "2021 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 56 000 км",
+        "price": "6 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171156895"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "1996 г.",
+        "city": "Шымкент",
+        "mileage": "с пробегом 390 000 км",
+        "price": "3 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/171142973"
+    },
+    {
+        "name": "Toyota",
+        "model": "Corolla",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 208 000 км",
+        "price": "6 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/171023863"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 250 000 км",
+        "price": "9 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/171115365"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Tahoe",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 11 000 км",
+        "price": "58 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171100892"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 34 600 км",
+        "price": "15 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/171083826"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 49 161 км",
+        "price": "60 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170786312"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 280",
+        "year": "1994 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 300 000 км",
+        "price": "3 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/159242447"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 37 000 км",
+        "price": "17 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171081488"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 11 500 км",
+        "price": "17 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171056265"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 58 000 км",
+        "price": "10 950 000 ₸",
+        "url": "https://kolesa.kz/a/show/171043611"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 195 000 км",
+        "price": "10 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/157604075"
+    },
+    {
+        "name": "Lexus",
+        "model": "RX 350",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 95 576 км",
+        "price": "19 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171033324"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 35 000 км",
+        "price": "49 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/171027571"
+    },
+    {
+        "name": "Kia",
+        "model": "Sorento",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 106 000 км",
+        "price": "13 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/171019953"
+    },
+    {
+        "name": "Toyota",
+        "model": "Alphard",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 150 000 км",
+        "price": "25 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170276103"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2021 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 32 000 км",
+        "price": "19 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170847246"
+    },
+    {
+        "name": "Daewoo",
+        "model": "Matiz",
+        "year": "2006 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 209 000 км",
+        "price": "1 100 000 ₸",
+        "url": "https://kolesa.kz/a/show/170973870"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Bayon",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 2 000 км",
+        "price": "13 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170964350"
+    },
+    {
+        "name": "Lexus",
+        "model": "RX 300",
+        "year": "2001 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 250 000 км",
+        "price": "6 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171378333"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2022 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 35 000 км",
+        "price": "12 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/168477765"
+    },
+    {
+        "name": "Toyota",
+        "model": "Estima",
+        "year": "2011 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 171 000 км",
+        "price": "5 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/153238855"
+    },
+    {
+        "name": "Toyota",
+        "model": "RAV4",
+        "year": "2006 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 270 000 км",
+        "price": "5 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/170892071"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2011 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 200 000 км",
+        "price": "6 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170889742"
+    },
+    {
+        "name": "Toyota",
+        "model": "4Runner",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 2 100 км",
+        "price": "35 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/170527527"
+    },
+    {
+        "name": "Kia",
+        "model": "K5",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 98 700 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170851245"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2024 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 30 км",
+        "price": "8 800 000 ₸",
+        "url": "https://kolesa.kz/a/show/163843906"
+    },
+    {
+        "name": "BMW",
+        "model": "X5 M",
+        "year": "2009 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 106 000 км",
+        "price": "16 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169420057"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Sonata",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 15 000 км",
+        "price": "13 480 000 ₸",
+        "url": "https://kolesa.kz/a/show/170115746"
+    },
+    {
+        "name": "Geely",
+        "model": "Monjaro",
+        "year": "2024 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 10 км",
+        "price": "13 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/170651012"
+    },
+    {
+        "name": "Bentley",
+        "model": "Continental GT",
+        "year": "2005 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 83 542 км",
+        "price": "16 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/170808337"
+    },
+    {
+        "name": "Lexus",
+        "model": "GX 470",
+        "year": "2004 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 321 600 км",
+        "price": "8 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171116178"
+    },
+    {
+        "name": "Lexus",
+        "model": "IS 300",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 62 000 км",
+        "price": "14 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/169468209"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Bayon",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 4 400 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171429341"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Bayon",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 4 400 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171429341"
+    },
+    {
+        "name": "Porsche",
+        "model": "Cayenne",
+        "year": "2014 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 87 000 км",
+        "price": "23 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/164438269"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Tucson",
+        "year": "2012 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 157 000 км",
+        "price": "7 300 000 ₸",
+        "url": "https://kolesa.kz/a/show/170565644"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2024 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 19 км",
+        "price": "8 900 000 ₸",
+        "url": "https://kolesa.kz/a/show/170308299"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "model": "E 200",
+        "year": "1990 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 250 000 км",
+        "price": "2 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/123543908"
+    },
+    {
+        "name": "Toyota",
+        "model": "Camry",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 5 500 км",
+        "price": "18 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/167922710"
+    },
+    {
+        "name": "Haval",
+        "model": "H6",
+        "year": "2023 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 12 000 км",
+        "price": "11 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/167057883"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Elantra",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 137 000 км",
+        "price": "6 700 000 ₸",
+        "url": "https://kolesa.kz/a/show/169412622"
+    },
+    {
+        "name": "BMW",
+        "model": "X5",
+        "year": "2018 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 127 000 км",
+        "price": "23 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/157022158"
+    },
+    {
+        "name": "Toyota",
+        "model": "Land Cruiser",
+        "year": "2005 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 334 000 км",
+        "price": "15 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/164019355"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Captiva",
+        "year": "2020 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 12 500 км",
+        "price": "9 500 000 ₸",
+        "url": "https://kolesa.kz/a/show/171405568"
+    },
+    {
+        "name": "Chevrolet",
+        "model": "Captiva",
+        "year": "2013 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 195 000 км",
+        "price": "2 400 000 ₸",
+        "url": "https://kolesa.kz/a/show/171311394"
+    },
+    {
+        "name": "Infiniti",
+        "model": "QX80",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 106 128 км",
+        "price": "19 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171393832"
+    },
+    {
+        "name": "Hyundai",
+        "model": "Accent",
+        "year": "2015 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 155 000 км",
+        "price": "6 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/166398818"
+    },
+    {
+        "name": "Toyota",
+        "model": "Alphard",
+        "year": "2006 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 272 000 км",
+        "price": "9 000 000 ₸",
+        "url": "https://kolesa.kz/a/show/171300936"
+    },
+    {
+        "name": "Toyota",
+        "model": "Alphard",
+        "year": "2019 г.",
+        "city": "Алматы",
+        "mileage": "с пробегом 74 000 км",
+        "price": "22 200 000 ₸",
+        "url": "https://kolesa.kz/a/show/151032315"
+    }
+]

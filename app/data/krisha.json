@@ -1,0 +1,5642 @@
+[
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "280 000 〒",
+        "address": " Розыбакиева 181а — Байкадамова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694408046"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "400 000 〒",
+        "address": " Кенесары хана 54",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/685425426"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "350 000 〒",
+        "address": " Самал 1 1 — Dostyk plaza",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/691239851"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "170 000 〒",
+        "address": " Чингиз Айтматов 60",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/679241599"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 39 м²",
+        "price": "350 000 〒",
+        "address": " Сарайшык — Кунаева",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/687819358"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "185 000 〒",
+        "address": " Казыбек Би 7 — Е22",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/689080011"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 44.8 м²",
+        "price": "200 000 〒",
+        "address": " Казыбек Би 7 — Е22",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694316470"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "600 000 〒",
+        "address": " Розыбакиева 336 — Ескараева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693783809"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 31 м²",
+        "price": "150 000 〒",
+        "address": " Розыбакиева 336 — Ескараева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/678385325"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 71 м²",
+        "price": "330 000 〒",
+        "address": " Навои 208/1 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687674058"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "280 000 〒",
+        "address": " Шагабутдитова — Джамбула",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/692264573"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "200 000 〒",
+        "address": " Каримова 77 — Толе Би угол Тургут Озала",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/692302910"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "350 000 〒",
+        "address": " мкр Самал-2 50 — Мендикулова\\Аль фараби",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/693964650"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "300 000 〒",
+        "address": " Гоголя 155 — Байтурсынова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/686672576"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " мкр Жетысу-3 8",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/690724413"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Нажимеденова 4/1",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/668025047"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "150 000 〒",
+        "address": " Нажимеденова 4/1",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/679252307"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 64 м²",
+        "price": "220 000 〒",
+        "address": " Сарыарка 35/2 — За Магнумом",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/687641441"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "230 000 〒",
+        "address": " мкр Коктем-1 214 — Тимирязева угол Розыбакиева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688188113"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 32 м²",
+        "price": "210 000 〒",
+        "address": " мкр №7 11",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/690799059"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 80 м²",
+        "price": "600 000 〒",
+        "address": " мкр Алмагуль 310",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694427356"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 32 м²",
+        "price": "230 000 〒",
+        "address": " мкр №7 6 — Абая",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/689682091"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 66 м²",
+        "price": "320 000 〒",
+        "address": " Мукагали Макатаева 46 — Зеленый базар",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694384089"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "180 000 〒",
+        "address": " мкр Жетысу-2 — Саина-Улугбека",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/680297321"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 31 м²",
+        "price": "160 000 〒",
+        "address": " Муратбаева 112 — Казыбек би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/692636839"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 90 м²",
+        "price": "450 000 〒",
+        "address": " Аль-Фараби 7",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/684371339"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "220 000 〒",
+        "address": " мкр Казахфильм — Исиналиева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/675665213"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 42 м²",
+        "price": "200 000 〒",
+        "address": " Абая — Ауезова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/56587860"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36 м²",
+        "price": "220 000 〒",
+        "address": " Байзакова 116 — Гоголя",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/665763338"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 41.9 м²",
+        "price": "160 000 〒",
+        "address": " Карасай батыра — Ауэзова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694286305"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "100 000 〒",
+        "address": " Карасай батыра — Ауэзова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/675172260"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 80 м²",
+        "price": "250 000 〒",
+        "address": " Карасай батыра — Ауэзова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/691334502"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "100 000 〒",
+        "address": " Привокзальная 20",
+        "district": "мкр Привокзальный-5",
+        "url": "https://krisha.kz/a/show/690939236"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 81 м²",
+        "price": "300 000 〒",
+        "address": " Улы Дала 6 — Сауран",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694393638"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 81 м²",
+        "price": "160 000 〒",
+        "address": " Улы Дала 6 — Сауран",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694427204"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 20 м²",
+        "price": "130 000 〒",
+        "address": " Желтоксан — Гоголя",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/690425400"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 90 м²",
+        "price": "800 000 〒",
+        "address": " Желтоксан — Гоголя",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/682362158"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 683 м²",
+        "price": "150 000 〒",
+        "address": " Желтоксан — Гоголя",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694416369"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "480 000 〒",
+        "address": " Желтоксан — Гоголя",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693747336"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "120 000 〒",
+        "address": " Кабанбай батыра 15",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/694425564"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 60 м²",
+        "price": "200 000 〒",
+        "address": " Кабанбай батыра 15",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/694426643"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 76 м²",
+        "price": "350 000 〒",
+        "address": " Алихана Бокейханова 19",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694120573"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 76 м²",
+        "price": "350 000 〒",
+        "address": " Алихана Бокейханова 19",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694120573"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 35 м²",
+        "price": "105 000 〒",
+        "address": " Бірлік көшесы 6",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/682594637"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "150 000 〒",
+        "address": " мкр Жулдыз-2 44",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694370431"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "150 000 〒",
+        "address": " 3-мкр 41 — Находится рядом с парком победы",
+        "district": "мкр Авангард-3",
+        "url": "https://krisha.kz/a/show/694426330"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 85 м²",
+        "price": "1 100 000 〒",
+        "address": " Аль-Фараби 77/3 — Весновка",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694426231"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "280 000 〒",
+        "address": " Гагарина 310 — Аль фараби",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694256117"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 94 м²",
+        "price": "300 000 〒",
+        "address": " Гагарина 310 — Аль фараби",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693839972"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 94 м²",
+        "price": "180 000 〒",
+        "address": " Б. Момышулы 4",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/685322717"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 83 м²",
+        "price": "430 000 〒",
+        "address": " Гагарина проспект 124 — Абая",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693797529"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 57 м²",
+        "price": "235 000 〒",
+        "address": " мкр Дорожник",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/694386758"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 46 м²",
+        "price": "270 000 〒",
+        "address": " Навои",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694342132"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 44 м²",
+        "price": "250 000 〒",
+        "address": " Егизбаева 7/9",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693767035"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "230 000 〒",
+        "address": " Сайна 4/4 — Райымбека",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694199520"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 98.8 м²",
+        "price": "450 000 〒",
+        "address": " Абая 150/230 — Абая - Тургут Озала",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691896226"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 66 м²",
+        "price": "250 000 〒",
+        "address": " Абая 150/230 — Абая - Тургут Озала",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693675102"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 135 м²",
+        "price": "1 500 000 〒",
+        "address": " Абая 150/230 — Абая - Тургут Озала",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694399491"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "400 000 〒",
+        "address": " Шарипова 28",
+        "district": "мкр Жилгородок",
+        "url": "https://krisha.kz/a/show/692799072"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 76 м²",
+        "price": "100 000 〒",
+        "address": " Шарипова 28",
+        "district": "мкр Жилгородок",
+        "url": "https://krisha.kz/a/show/688475840"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 57 м²",
+        "price": "350 000 〒",
+        "address": " Жумалиева — Кабанбай Батыра",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/671883985"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "240 000 〒",
+        "address": " Жамбыла — Ауэзова. УЮТНАЯ",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/681047290"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 67 м²",
+        "price": "200 000 〒",
+        "address": " Жамбыла — Ауэзова. УЮТНАЯ",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/691967371"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "250 000 〒",
+        "address": " Жамбыла — Ауэзова. УЮТНАЯ",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/683913827"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "260 000 〒",
+        "address": " Айтиева 9 — Толе би Ауэзова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694116596"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "130 000 〒",
+        "address": " Назарбаева 36",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/688465961"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "120 000 〒",
+        "address": " Назарбаева 36",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/694421586"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "350 000 〒",
+        "address": " мкр Мамыр-7 — Момышулы-шаляпина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/690657103"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 86 м²",
+        "price": "300 000 〒",
+        "address": " Кошкарбаева 2",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/673142542"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 140 м²",
+        "price": "490 000 〒",
+        "address": " Байтурсынова 5",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/670556237"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 160 м²",
+        "price": "700 000 〒",
+        "address": " Аль-Фараби — Желтоксан",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694290963"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 160 м²",
+        "price": "135 000 〒",
+        "address": " Кайыма Мухамедханова 17",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694412983"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "150 000 〒",
+        "address": " Кайыма Мухамедханова 17",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/678849532"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "550 000 〒",
+        "address": " Кайыма Мухамедханова 17",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/685639757"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "205 000 〒",
+        "address": " Кайыма Мухамедханова 17",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694329829"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 126 м²",
+        "price": "600 000 〒",
+        "address": " Сарыарка 3",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694425445"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 186 м²",
+        "price": "650 000 〒",
+        "address": " Достык 112 — Сатпаева",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/692415243"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "60 000 〒",
+        "address": " Достык 112 — Сатпаева",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/666010572"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 27 м²",
+        "price": "180 000 〒",
+        "address": " Достык 112 — Сатпаева",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694255098"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 37 м²",
+        "price": "200 000 〒",
+        "address": " Казыбек би — Ул.Толеби",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/679288894"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 37 м²",
+        "price": "200 000 〒",
+        "address": " Казыбек би — Ул.Толеби",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/679288894"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 57 м²",
+        "price": "150 000 〒",
+        "address": " Казыбек би — Ул.Толеби",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/694425100"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 74.5 м²",
+        "price": "300 000 〒",
+        "address": " Казыбек би — Ул.Толеби",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/694424957"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "400 000 〒",
+        "address": " Мусрепова 24 — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694424984"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "220 000 〒",
+        "address": " Мусрепова 24 — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694424824"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 76 м²",
+        "price": "400 000 〒",
+        "address": " Абая 7 — Брусиловского Абая",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694424776"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "180 000 〒",
+        "address": " Кабанбай батыра 48/9 — Орынбор",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/683446008"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 68 м²",
+        "price": "300 000 〒",
+        "address": " Рыскулбекова 28/6",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694021876"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "280 000 〒",
+        "address": " Розыбакиева 181а — Байкадамова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694408046"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "350 000 〒",
+        "address": " Мухамедханова 4/1 — 306",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694397798"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "220 000 〒",
+        "address": " Туркебаева 246 — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694187167"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "210 000 〒",
+        "address": " Мангилик Ел 72",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/683223716"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "135 000 〒",
+        "address": " Мухамедханова 17/1",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/694410327"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "180 000 〒",
+        "address": " Радостовца — Джандосова Розыбакиева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687430557"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "440 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689291538"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 89 м²",
+        "price": "350 000 〒",
+        "address": " Улы Дала 33/1 — Пересечение Туран",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/694320918"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 45 м²",
+        "price": "50 000 〒",
+        "address": " мкр Шанырак-2 Аубакирова 1/34 — Аубакирова 1/34",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/694424237"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "270 000 〒",
+        "address": " 20-линия",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/675779534"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 80.5 м²",
+        "price": "580 000 〒",
+        "address": " Кунаева 15/1",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/691752451"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "150 000 〒",
+        "address": " Кунаева 15/1",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694163089"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 61 м²",
+        "price": "180 000 〒",
+        "address": " Мустафина 13 — 7 поликлиники",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694423661"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "300 000 〒",
+        "address": " Нажимеденова 4",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/690554298"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 41 м²",
+        "price": "200 000 〒",
+        "address": " Розыбакиева — Раймбека",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/683744084"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "280 000 〒",
+        "address": " Каратал 19а",
+        "district": "Каратал",
+        "url": "https://krisha.kz/a/show/679433202"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "300 000 〒",
+        "address": " Каратал 19а",
+        "district": "Каратал",
+        "url": "https://krisha.kz/a/show/694424054"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 47 м²",
+        "price": "240 000 〒",
+        "address": " Алтын орда 6/11",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694423987"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 67 м²",
+        "price": "300 000 〒",
+        "address": " Егизбаева 7 — Сатпаева розыбакиева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694395197"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Скрябина 28 — Параллельно Райымбека",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/680911530"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "180 000 〒",
+        "address": " Туран 55/4 — №24",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/692262263"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 28 м²",
+        "price": "150 000 〒",
+        "address": " Туран 55/4 — №24",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/681050266"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36.2 м²",
+        "price": "300 000 〒",
+        "address": " Толе би 181 — Ауэзова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693870671"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "240 000 〒",
+        "address": " Улугбека 59 — Момышулы МЕТРО",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693910528"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "200 000 〒",
+        "address": " Туран 40/2",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/682774725"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "380 000 〒",
+        "address": " Тлендиева 223",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/672947237"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "200 000 〒",
+        "address": " Тлендиева 223",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694242094"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "350 000 〒",
+        "address": " 17-й микрорайон 6",
+        "district": "17-й мкр",
+        "url": "https://krisha.kz/a/show/684053370"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36 м²",
+        "price": "140 000 〒",
+        "address": " Нурмагамбетова 22/1",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/685288334"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "300 000 〒",
+        "address": " Гоголя 128",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694423722"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "150 000 〒",
+        "address": " Алтын орда 6/9 — 207 лицей жанында",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694423851"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 44 м²",
+        "price": "250 000 〒",
+        "address": " Муратбаева 14/1 — Мега",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/689289803"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "320 000 〒",
+        "address": " Туркебаева 246",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/662171312"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "230 000 〒",
+        "address": " Чингиз Айтматов 52",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/694112449"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "250 000 〒",
+        "address": " Чингиз Айтматов 52",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/693644715"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "180 000 〒",
+        "address": " Е 489 4",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/692920921"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "150 000 〒",
+        "address": " Е 489 4",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694423501"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "300 000 〒",
+        "address": " Сатпаева 90 — Туркебаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691935239"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "300 000 〒",
+        "address": " Розыбакиева — Утепова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694385322"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "300 000 〒",
+        "address": " мкр Орбита-3 26",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/674117408"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 64 м²",
+        "price": "160 000 〒",
+        "address": " мкр Орбита-3 26",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/671830040"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 48 м²",
+        "price": "140 000 〒",
+        "address": " мкр Орбита-3 26",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689699584"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "120 000 〒",
+        "address": " мкр Орбита-3 26",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694266659"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 64 м²",
+        "price": "270 000 〒",
+        "address": " Мәңгілік Ел 19",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694089667"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "250 000 〒",
+        "address": " Кабанбай батыра",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694171941"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "250 000 〒",
+        "address": " Манаса 66",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694302977"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 58 м²",
+        "price": "130 000 〒",
+        "address": " Манаса 66",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694358660"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 60 м²",
+        "price": "300 000 〒",
+        "address": " Манаса 66",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694280599"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "160 000 〒",
+        "address": " мкр Айнабулак-2 83",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/694422954"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 32 м²",
+        "price": "140 000 〒",
+        "address": " Тлендиева 52/2",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/688632557"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 31.3 м²",
+        "price": "160 000 〒",
+        "address": " Бараева 14",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694395427"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 84 м²",
+        "price": "750 000 〒",
+        "address": " Бараева 14",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694325696"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 77 м²",
+        "price": "180 000 〒",
+        "address": " Бараева 14",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/683639072"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "220 000 〒",
+        "address": " Асфендиярова 5",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694361573"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "260 000 〒",
+        "address": " Тауельсиздик 43/3",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/686795139"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 120 м²",
+        "price": "350 000 〒",
+        "address": " Сауран 7",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694414890"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 120 м²",
+        "price": "120 000 〒",
+        "address": " Кабардинская 17 — Паладина",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/693996589"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "120 000 〒",
+        "address": " Кабардинская 17 — Палладина",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/677942502"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 67 м²",
+        "price": "230 000 〒",
+        "address": " мкр Кулагер — Серикова",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/690280812"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "100 000 〒",
+        "address": " мкр Кулагер — Серикова",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/673932293"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "230 000 〒",
+        "address": " мкр Кулагер — Серикова",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/694357942"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "230 000 〒",
+        "address": " Толе би 285 — Утеген батыр-Толеби",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694401101"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 114 м²",
+        "price": "250 000 〒",
+        "address": " Гани Иляева 113/3 — ЖК Арман",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/692987885"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "120 000 〒",
+        "address": " Гани Иляева 113/3 — ЖК Арман",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/691730019"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 67 м²",
+        "price": "140 000 〒",
+        "address": " Гани Иляева 113/3 — ЖК Арман",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/691964304"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43 м²",
+        "price": "210 000 〒",
+        "address": " мкр Аксай-2 — Толе би - Сайна",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694249109"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 62 м²",
+        "price": "300 000 〒",
+        "address": " Кайыма Мухамедханова 4В — проспект Туран",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/685935487"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 36 м²",
+        "price": "160 000 〒",
+        "address": " Калдаяков",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694384926"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "100 000 〒",
+        "address": " 9-й микрорайон 6",
+        "district": "9-й микрорайон",
+        "url": "https://krisha.kz/a/show/694422680"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72 м²",
+        "price": "300 000 〒",
+        "address": " проспект Рахимжана Кошкарбаева 10/1 — проспект Тауелсиздик",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/53249997"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 144 м²",
+        "price": "450 000 〒",
+        "address": " проспект Рахимжана Кошкарбаева 2",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/30857303"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 180 м²",
+        "price": "700 000 〒",
+        "address": " проспект Рахимжана Кошкарбаева 8 — Блок - Е1",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/688171112"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 180 м²",
+        "price": "800 000 〒",
+        "address": " Ахмета Байтурсынова 9 — проспект Тауелсиздик",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/668470937"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 54 м²",
+        "price": "170 000 〒",
+        "address": " К. Байсеитовой 10 —   Арман",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694308496"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 54 м²",
+        "price": "90 000 〒",
+        "address": " К. Байсеитовой 10 —   Арман",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/685691810"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 176 м²",
+        "price": "600 000 〒",
+        "address": " проспект Рахимжана Кошкарбаева 8",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/28306700"
+    },
+    {
+        "rooms": "5-комнатная квартира",
+        "square": " 220 м²",
+        "price": "1 100 000 〒",
+        "address": " Ахмета Байтурсынова 9 — проспект Тауелсиздик",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/679914653"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36 м²",
+        "price": "200 000 〒",
+        "address": " Ахмета Байтурсынова 9 — проспект Тауелсиздик",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/686591949"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 115 м²",
+        "price": "330 000 〒",
+        "address": " Абая 150/230",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694132193"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 16 м²",
+        "price": "160 000 〒",
+        "address": " Утепова 11Б — Гагарина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/676508254"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 47 м²",
+        "price": "380 000 〒",
+        "address": " Пр. Абая 109/8",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/667455351"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 31 м²",
+        "price": "100 000 〒",
+        "address": " Пр. Абая 109/8",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/692903100"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43 м²",
+        "price": "200 000 〒",
+        "address": " Ул.Туркестанская 2/4 — Напротив поликлиники Айболит",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/694422154"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43 м²",
+        "price": "110 000 〒",
+        "address": " Торайгырова 3/1 — Республики",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694253252"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 44 м²",
+        "price": "240 000 〒",
+        "address": " мкр Коктем-2 — Тимирязева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687613516"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 58 м²",
+        "price": "150 000 〒",
+        "address": " Қ Медеубаева 11 — Возле рынка Коктем",
+        "district": "мкр Лесхоз",
+        "url": "https://krisha.kz/a/show/694191493"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "300 000 〒",
+        "address": " Минина 24 — Маркова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694337454"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "270 000 〒",
+        "address": " E-753 6",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/679109422"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 68 м²",
+        "price": "220 000 〒",
+        "address": " Кайыма Мухамедханова 17",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/690507897"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "160 000 〒",
+        "address": " Б. Момышулы 12",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/682510467"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 42 м²",
+        "price": "90 000 〒",
+        "address": " Б. Момышулы 12",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694354099"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 48 м²",
+        "price": "100 000 〒",
+        "address": " Б. Момышулы 12",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/693990406"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "100 000 〒",
+        "address": " Карасу 21 — Остановка Дархан",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/681829265"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "120 000 〒",
+        "address": " Потанина — Студгородок",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/694421854"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "260 000 〒",
+        "address": " Сатпаева 90 — Туркебаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694086971"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 93 м²",
+        "price": "900 000 〒",
+        "address": " Аль-Фараби 21",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/672852723"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 42 м²",
+        "price": "200 000 〒",
+        "address": " Аль-Фараби 21",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694421483"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "95 000 〒",
+        "address": " Бейбитшилик 4",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/694421478"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "250 000 〒",
+        "address": " мкр №2 36 — Куанышбаева",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694416083"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 41 м²",
+        "price": "200 000 〒",
+        "address": " Абишева",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/692253300"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 62 м²",
+        "price": "390 000 〒",
+        "address": " Навои 58/1 — Навои.Джандосова",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694377340"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 48 м²",
+        "price": "380 000 〒",
+        "address": " Баишева 28",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694333811"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "250 000 〒",
+        "address": " Жарокова 200 — Тимирязева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694421013"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 84 м²",
+        "price": "1 100 000 〒",
+        "address": " Аль-Фараби 77/3",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691596598"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 41.3 м²",
+        "price": "300 000 〒",
+        "address": " Тургут Озала 261 стр",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694420914"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "250 000 〒",
+        "address": " Майлина 19",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694420901"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "120 000 〒",
+        "address": " Богенбай батыра — Юнис сити",
+        "district": "мкр Авиатор",
+        "url": "https://krisha.kz/a/show/682181540"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "350 000 〒",
+        "address": " мкр Тастак-2 31 — Тлендиева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694420487"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "140 000 〒",
+        "address": " мкр Асар 1",
+        "district": "Каратауский",
+        "url": "https://krisha.kz/a/show/689513239"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "230 000 〒",
+        "address": " Толе би 286/5",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693373875"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "250 000 〒",
+        "address": " Муратбаева 14",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/692928862"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "250 000 〒",
+        "address": " Сейфуллина 51/19",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/693923405"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 92 м²",
+        "price": "220 000 〒",
+        "address": " Таумуш Жумагалиев 15а",
+        "district": "мкр Нурсая",
+        "url": "https://krisha.kz/a/show/694254987"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 76 м²",
+        "price": "250 000 〒",
+        "address": " Брусиловского 167 — Брусиловского-Шакарима",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694164743"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 68 м²",
+        "price": "350 000 〒",
+        "address": " Туран 46/4",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/693729954"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "210 000 〒",
+        "address": " Эйхе 21 а",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/693575519"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 86 м²",
+        "price": "400 000 〒",
+        "address": " Масанчи — Гоголя-Масанчи",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693473181"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "140 000 〒",
+        "address": " Ул Алимбетова 45 В",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/692951195"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "1 000 000 〒",
+        "address": " Достык 10/1",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/692582581"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 90 м²",
+        "price": "550 000 〒",
+        "address": " Достык 10/1",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/691860441"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "400 000 〒",
+        "address": " мкр Самал-2 73",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/691595511"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 28 м²",
+        "price": "100 000 〒",
+        "address": " мкр Самал-2 73",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/691045841"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 227 м²",
+        "price": "1 350 000 〒",
+        "address": " мкр Самал-2 73",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/690909337"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 42 м²",
+        "price": "230 000 〒",
+        "address": " мкр Самал-2 73",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/690848405"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 24 м²",
+        "price": "150 578 〒",
+        "address": " мкр Самал-2 73",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/690105578"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "400 000 〒",
+        "address": " Катаева 155/1 — Сатпаева/Розыбакиева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689979365"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "500 000 〒",
+        "address": " Навои 210/3 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689508187"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "300 000 〒",
+        "address": " Навои 210/3 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689479807"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 70 м²",
+        "price": "450 000 〒",
+        "address": " Сатпаева 63 — Гагарина Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689115157"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Сыганак 48",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/689027171"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "270 000 〒",
+        "address": " Туран 44Б",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688949790"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 145 м²",
+        "price": "1 000 000 〒",
+        "address": " Тумар Ханым 20",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688882148"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 100 м²",
+        "price": "400 000 〒",
+        "address": " Кабанбай Батыра 58Б",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688809521"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 51 м²",
+        "price": "300 000 〒",
+        "address": " Мангилик Ел 45",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688740617"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "350 000 〒",
+        "address": " Мангилик Ел 45",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688722562"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 67 м²",
+        "price": "290 000 〒",
+        "address": " Керей и Жанибек хандар 14/2",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688648628"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 100 м²",
+        "price": "1 200 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688606940"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "300 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688464530"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36 м²",
+        "price": "200 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688400308"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 128 м²",
+        "price": "550 000 〒",
+        "address": " Кабанбай батыра 43В",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688362136"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 82.4 м²",
+        "price": "650 000 〒",
+        "address": " Минусинская улица — проспект Аль-Фараби 43",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688116707"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 58 м²",
+        "price": "150 000 〒",
+        "address": " Минусинская улица — проспект Аль-Фараби 43",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687995500"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "420 000 〒",
+        "address": " Сыганак 14",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/687867994"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "270 000 〒",
+        "address": " Сыганак 15/1",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/687867681"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 120 м²",
+        "price": "600 000 〒",
+        "address": " Шамши Калдаякова 6",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/687866709"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 130 м²",
+        "price": "590 000 〒",
+        "address": " проспект Кабанбай Батыра 60А",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/687862624"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "600 000 〒",
+        "address": " проспект Улы Дала 39",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/687858889"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 77 м²",
+        "price": "270 000 〒",
+        "address": " проспект Улы Дала 39",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/687406310"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 38 м²",
+        "price": "300 000 〒",
+        "address": " Сатпаева 90 — Туркебаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/686556240"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "200 000 〒",
+        "address": " Аскарова 7 — Республика",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/686296615"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "180 000 〒",
+        "address": " мкр Аксай-2 23 — Толе би момыш улы",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/685801544"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 48 м²",
+        "price": "200 000 〒",
+        "address": " мкр Аксай-2 23 — Толе би момыш улы",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/684953093"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "350 000 〒",
+        "address": " Анатолия Храпатого 25",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/684660462"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "350 000 〒",
+        "address": " Мкр -2",
+        "district": "мкр Авангард-2",
+        "url": "https://krisha.kz/a/show/684417410"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 77 м²",
+        "price": "300 000 〒",
+        "address": " Мкр -2",
+        "district": "мкр Авангард-2",
+        "url": "https://krisha.kz/a/show/684227047"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 77 м²",
+        "price": "500 000 〒",
+        "address": " Бухар Жырау 28",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/684117680"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "420 000 〒",
+        "address": " Тажибаевой 157 к1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/683722376"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "200 000 〒",
+        "address": " Панфилова 26",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/683005398"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "330 000 〒",
+        "address": " Айманова 149",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/682930387"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 39 м²",
+        "price": "300 000 〒",
+        "address": " Тянь-Шанская 7",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/681872627"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 42 м²",
+        "price": "110 000 〒",
+        "address": " Тянь-Шанская 7",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/681683999"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "400 000 〒",
+        "address": " Толе би 189/3 — Толе би Жарокова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/681576423"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 115 м²",
+        "price": "425 000 〒",
+        "address": " 7-й А мкр 20 — Топ стоп",
+        "district": "7-й мкр",
+        "url": "https://krisha.kz/a/show/679949535"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "220 000 〒",
+        "address": " Гагарина 148 — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/679737177"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 62 м²",
+        "price": "250 000 〒",
+        "address": " мкр Жетысу-2 78 — Абая Саина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/679704013"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 41 м²",
+        "price": "350 000 〒",
+        "address": " Манаса 62 — Темирязова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/678445977"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 80 м²",
+        "price": "160 000 〒",
+        "address": " Манаса 62 — Темирязова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/677771040"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 51.1 м²",
+        "price": "300 000 〒",
+        "address": " Айманова 202А — Жандосова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/676963895"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "260 000 〒",
+        "address": " Панфилова — Маметовой",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/675458325"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 63 м²",
+        "price": "360 000 〒",
+        "address": " Маметовой — Панфилова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/675449331"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "210 000 〒",
+        "address": " Алихана Бокейханова 32 — Улы дала - Мангилик ел",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/673538336"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 44 м²",
+        "price": "160 000 〒",
+        "address": " Янушкевича 1/2 — Иманова - Жубанова",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/683376622"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "200 000 〒",
+        "address": " Алихан Бокейхан 38 — Экспо",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/671626620"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 74 м²",
+        "price": "400 000 〒",
+        "address": " мкр Самал-2",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/669882694"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "300 000 〒",
+        "address": " мкр Самал-2",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/669838707"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 68.8 м²",
+        "price": "280 000 〒",
+        "address": " Рыскулбекова 28/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/665944521"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 78 м²",
+        "price": "350 000 〒",
+        "address": " Рыскулбекова 28/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/661596998"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 47 м²",
+        "price": "305 000 〒",
+        "address": " Шевченко 162а — Байзакова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/53763654"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "400 000 〒",
+        "address": " Мангилик ел 51/5",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/693791429"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "150 000 〒",
+        "address": " Мангилик ел 51/5",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694237735"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 75 м²",
+        "price": "270 000 〒",
+        "address": " К. Аманжолова 28/2 — Нажимеденова",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694369862"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 75 м²",
+        "price": "130 000 〒",
+        "address": " Кажымукана 4 — Петрова",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694136347"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 75 м²",
+        "price": "140 000 〒",
+        "address": " Альфараби 34/3 — Улы дала",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694334179"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "270 000 〒",
+        "address": " Альфараби 34/3 — Улы дала",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688894213"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "275 000 〒",
+        "address": " Темирязева 81/2 — Ауэзова Нурлы жол",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694002514"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "200 000 〒",
+        "address": " Гагарина 196 — Тимирязева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693796576"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 120 м²",
+        "price": "1 400 000 〒",
+        "address": " Сейфуллина 574/1 к3",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693924872"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "185 000 〒",
+        "address": " Кенесары 62",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694420336"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "300 000 〒",
+        "address": " Достык 111/4",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/687074327"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 42 м²",
+        "price": "160 000 〒",
+        "address": " Достык 111/4",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/693947987"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 72 м²",
+        "price": "270 000 〒",
+        "address": " мкр Аксай-3 34 — Момышулв",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/679193205"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 135 м²",
+        "price": "600 000 〒",
+        "address": " Ходжанова 2",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/668365577"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "80 000 〒",
+        "address": " 5 мкр — Ресторан Айжан",
+        "district": "мкр Привокзальный-5",
+        "url": "https://krisha.kz/a/show/681742370"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "350 000 〒",
+        "address": " мкр Самал-1 24 — Жолдасбекова-Мендикулова",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/687749373"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 109 м²",
+        "price": "400 000 〒",
+        "address": " Навои — Жандосова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/30252019"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 59 м²",
+        "price": "170 000 〒",
+        "address": " Пк Кунаева 336к16",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694158917"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "230 000 〒",
+        "address": " Пк Кунаева 336к16",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/689185586"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 135 м²",
+        "price": "900 000 〒",
+        "address": " Аль-Фараби 21 — Каратаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/678962094"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "300 000 〒",
+        "address": " Байзакова 170 — Толе Би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694359572"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "300 000 〒",
+        "address": " Жандосова 94А — Mega Center",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694067424"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "150 000 〒",
+        "address": " Жандосова 94А — Mega Center",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687358295"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "149 850 〒",
+        "address": " Мкр. Батыс-2 13Бк1 — проспект Алии Молдагуловой",
+        "district": "мкр. Алтын орда",
+        "url": "https://krisha.kz/a/show/680038959"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "800 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694411842"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34.5 м²",
+        "price": "140 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694083300"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 100 м²",
+        "price": "1 200 000 〒",
+        "address": " Аль-Фараби 41 — Сейфуллина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688693196"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "770 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689858367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 58 м²",
+        "price": "770 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/692833685"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 80 м²",
+        "price": "350 000 〒",
+        "address": " Мангилик Ел — Улы дала Мангилик Ел",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/691451699"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "150 000 〒",
+        "address": "Светофор",
+        "district": "31Б микрорайон 8 — Рядом супермаркет Дана",
+        "url": "https://krisha.kz/a/show/678678877"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "130 000 〒",
+        "address": "Светофор",
+        "district": "31Б микрорайон 8 — Рядом супермаркет Дана",
+        "url": "https://krisha.kz/a/show/694253825"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "100 000 〒",
+        "address": "Светофор",
+        "district": "31Б микрорайон 8 — Рядом супермаркет Дана",
+        "url": "https://krisha.kz/a/show/693417116"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "250 000 〒",
+        "address": " мкр №1 47 — Алтынсарина/Улыкбека",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/687403798"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 44 м²",
+        "price": "300 000 〒",
+        "address": " Абая 52А — Байзакова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/4286825"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 42 м²",
+        "price": "350 000 〒",
+        "address": " проспект Абая 52А — Байзакова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/680639398"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 42 м²",
+        "price": "330 000 〒",
+        "address": " Манаса 87",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/666260632"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "220 000 〒",
+        "address": " Жандосова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691268523"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 75 м²",
+        "price": "280 000 〒",
+        "address": " Тлендиева — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/667834747"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "250 000 〒",
+        "address": " мкр Коктем-1 10 — Весновка",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693961644"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 78 м²",
+        "price": "350 000 〒",
+        "address": " мкр Коктем-1 10 — Весновка",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693892679"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "400 000 〒",
+        "address": " Тулебаева 174 — Шевченко",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/673329024"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 73 м²",
+        "price": "330 000 〒",
+        "address": " Тулебаева 174 — Шевченко",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/688783028"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 69 м²",
+        "price": "210 000 〒",
+        "address": " мкр Калкаман-2 22 — Между 1-ой и 7-ой больницей",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694419516"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55.5 м²",
+        "price": "80 000 〒",
+        "address": " мкр Калкаман-2 22 — Между 1-ой и 7-ой больницей",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/681636686"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "100 000 〒",
+        "address": " мкр Калкаман-2 22 — Между 1-ой и 7-ой больницей",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694419276"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 78 м²",
+        "price": "350 000 〒",
+        "address": " мкр Жетысу-2 — Абая Саина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694418872"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "200 000 〒",
+        "address": " мкр Жетысу-2 — Абая Саина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693973215"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "630 000 〒",
+        "address": " Мусрепова 22 — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/680695836"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "190 000 〒",
+        "address": " Садвакасова 35",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/681506120"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "200 000 〒",
+        "address": " Садвакасова 35",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693770932"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36.8 м²",
+        "price": "155 000 〒",
+        "address": " мкр Алгабас",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/689607523"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "140 000 〒",
+        "address": " Сарыарка 11",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694413851"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 41 м²",
+        "price": "150 000 〒",
+        "address": " Сарыарка 11",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/687451408"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "170 000 〒",
+        "address": " мкр Нуртас 6 — Кеңжарық пен Кәусар көшесінің",
+        "district": "Каратауский",
+        "url": "https://krisha.kz/a/show/694129606"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "110 000 〒",
+        "address": " мкр Север 46 — Ул. Шаяхметова",
+        "district": "Енбекшинский",
+        "url": "https://krisha.kz/a/show/693473098"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45.5 м²",
+        "price": "150 000 〒",
+        "address": " мкр Север 46 — Ул. Шаяхметова",
+        "district": "Енбекшинский",
+        "url": "https://krisha.kz/a/show/694417540"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 83 м²",
+        "price": "230 000 〒",
+        "address": " Темирбека Жургенова 18/2",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/679343305"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 83 м²",
+        "price": "170 000 〒",
+        "address": " Джандосова 69/Б — Саина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/692217666"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "180 000 〒",
+        "address": " недалечко от Каспий Ривьеры",
+        "district": "4-й мкр — 4 мкр-он",
+        "url": "https://krisha.kz/a/show/688317150"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 78 м²",
+        "price": "150 000 〒",
+        "address": " Әлімбетова — Байтұрсынова",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/681773749"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 58 м²",
+        "price": "250 000 〒",
+        "address": " Әлімбетова — Байтұрсынова",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/687418046"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43 м²",
+        "price": "150 000 〒",
+        "address": " Әлімбетова — Байтұрсынова",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/692610912"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "210 000 〒",
+        "address": " Сембинова 7",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694352515"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "250 000 〒",
+        "address": " Айманова 68 — Карасай батыра",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694341926"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "90 000 〒",
+        "address": " Тулкибас 23 — Обаган",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/689780761"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 41 м²",
+        "price": "130 000 〒",
+        "address": " Женис 26а — Сейфуллина",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694335595"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "300 000 〒",
+        "address": " Желтоксан 28",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694418487"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 42 м²",
+        "price": "125 000 〒",
+        "address": " Бердибека Сокпакбаева 14/1 — Кенжебека Кумисбекова",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694364023"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "300 000 〒",
+        "address": " Навои 208 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693887591"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "250 000 〒",
+        "address": " А. Бокейханова 8 — Керей Жанибек ханов",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688854125"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 91.6 м²",
+        "price": "440 000 〒",
+        "address": " мкр Орбита-3 52",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688211353"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43.8 м²",
+        "price": "280 000 〒",
+        "address": " Кабанбай Батыр 51 — Ұлы дала",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/680527577"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 47 м²",
+        "price": "200 000 〒",
+        "address": " Чайкиной",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/691328760"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "140 000 〒",
+        "address": " Чайкиной",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/692725544"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72 м²",
+        "price": "200 000 〒",
+        "address": " Адмирал Лев Владимирский 23 б — Экоцентр",
+        "district": "мкр Авангард-2",
+        "url": "https://krisha.kz/a/show/694419017"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "100 000 〒",
+        "address": " Есемберлина 23/1",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/694418948"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "240 000 〒",
+        "address": " Халиуллина 168",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/685571200"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "130 000 〒",
+        "address": " Халиуллина 168",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/683481123"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "180 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/686696468"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "100 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694418638"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "170 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694418551"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 25 м²",
+        "price": "80 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694418420"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 77 м²",
+        "price": "250 000 〒",
+        "address": " Ырысты 46/11 — Рыскулова Емцова",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/694418385"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 140 м²",
+        "price": "850 000 〒",
+        "address": " мкр Мирас 157 — Мустафина Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693283874"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "300 000 〒",
+        "address": " мкр Кайрат",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694338978"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 59 м²",
+        "price": "250 000 〒",
+        "address": " Туркебаева 59 а — Дуйсенова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694307961"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 186.4 м²",
+        "price": "800 000 〒",
+        "address": " мкр Самал-3 25 — Мендыкулова",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/20852552"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "190 000 〒",
+        "address": " Чокина 200/204 — Байзакова Толе би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/673542046"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "230 000 〒",
+        "address": " Богенбай батыра 192 — Шагабутдинова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/688886857"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 73 м²",
+        "price": "370 000 〒",
+        "address": " Кабанбай батыра 5",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/51252659"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "160 000 〒",
+        "address": " Ш. Айтматова 53 — Шоссе Коргалжын",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/692920200"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "300 000 〒",
+        "address": " мкр Коктем-3 1 — Бухар Жырау - Мусрепова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/690936915"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "300 000 〒",
+        "address": " Мангилик Ел 17",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694313670"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "250 000 〒",
+        "address": " Чернышевского — Сейфуллина",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694319790"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "450 000 〒",
+        "address": " Ислама Каримова 203 — Тургут Озала",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/686698209"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72 м²",
+        "price": "350 000 〒",
+        "address": " Егизбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/679058465"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 78 м²",
+        "price": "300 000 〒",
+        "address": " Егизбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/680684223"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 46 м²",
+        "price": "330 000 〒",
+        "address": " Егизбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/683677381"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "350 000 〒",
+        "address": " Макатаева 127/25 — М",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/682137448"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "530 000 〒",
+        "address": " Наурызбай батыра 127 блок 4 — Наурызбай батыра - Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693148719"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 48 м²",
+        "price": "270 000 〒",
+        "address": " Абая 130",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694289367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72 м²",
+        "price": "250 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694355009"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "120 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/49185038"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "200 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694290699"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "270 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/691396575"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "670 000 〒",
+        "address": " Навои 58 — Навои угол Жандосова",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693926856"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "650 000 〒",
+        "address": " Радостовца 280",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691499911"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 55 м²",
+        "price": "350 000 〒",
+        "address": " Торекулова 91 блок 6 — Сейфуллина - Макатаева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693673753"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Торекулова 91 блок 6 — Сейфуллина - Макатаева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/678401610"
+    },
+    {
+        "rooms": "6-комнатная квартира",
+        "square": " 400 м²",
+        "price": "2 800 000 〒",
+        "address": " мкр Мирас 188/2",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693950114"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 22 м²",
+        "price": "170 000 〒",
+        "address": " Байзакова 289",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694162751"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "300 000 〒",
+        "address": " Д. Кунаева 35",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694341132"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "190 000 〒",
+        "address": " бульвар Бухар Жырау 40",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694415785"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 85 м²",
+        "price": "350 000 〒",
+        "address": " Сейфуллина 577/89 — Шевченко",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/685951367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 48 м²",
+        "price": "150 000 〒",
+        "address": " Сейфуллина 577/89 — Шевченко",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693643194"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 28 м²",
+        "price": "150 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/693696024"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "150 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/694417205"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "130 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/671256075"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 16 м²",
+        "price": "90 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/693723938"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "160 000 〒",
+        "address": " Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/689375889"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "320 000 〒",
+        "address": " мкр Орбита-3 30 — Торайгырова Саина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694036798"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "200 000 〒",
+        "address": " мкр Юго-Восток 19 — Возле старой корзины",
+        "district": "Казыбек би",
+        "url": "https://krisha.kz/a/show/694366584"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "250 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694327847"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "100 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693570657"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "320 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694348765"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 61 м²",
+        "price": "170 000 〒",
+        "address": " Потанина 3 — ЖК Лея",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694402924"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 39 м²",
+        "price": "100 000 〒",
+        "address": " Потанина 3 — ЖК Лея",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694288790"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 55 м²",
+        "price": "350 000 〒",
+        "address": " Торекулова 91 блок 6 — Сейфуллина - Макатаева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693673753"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Торекулова 91 блок 6 — Сейфуллина - Макатаева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/678401610"
+    },
+    {
+        "rooms": "6-комнатная квартира",
+        "square": " 400 м²",
+        "price": "2 800 000 〒",
+        "address": " мкр Мирас 188/2",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693950114"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 22 м²",
+        "price": "170 000 〒",
+        "address": " Байзакова 289",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694162751"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "300 000 〒",
+        "address": " Д. Кунаева 35",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694341132"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "190 000 〒",
+        "address": " бульвар Бухар Жырау 40",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694415785"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 85 м²",
+        "price": "350 000 〒",
+        "address": " Сейфуллина 577/89 — Шевченко",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/685951367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 48 м²",
+        "price": "150 000 〒",
+        "address": " Сейфуллина 577/89 — Шевченко",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693643194"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 28 м²",
+        "price": "150 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/693696024"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "150 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/694417205"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "130 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/671256075"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 16 м²",
+        "price": "90 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/693723938"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "160 000 〒",
+        "address": " Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/689375889"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "320 000 〒",
+        "address": " мкр Орбита-3 30 — Торайгырова Саина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694036798"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "200 000 〒",
+        "address": " мкр Юго-Восток 19 — Возле старой корзины",
+        "district": "Казыбек би",
+        "url": "https://krisha.kz/a/show/694366584"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "250 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694327847"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "100 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693570657"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "320 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694348765"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 61 м²",
+        "price": "170 000 〒",
+        "address": " Потанина 3 — ЖК Лея",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694402924"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 39 м²",
+        "price": "100 000 〒",
+        "address": " Потанина 3 — ЖК Лея",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694288790"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 135 м²",
+        "price": "600 000 〒",
+        "address": " Ходжанова 2",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/668365577"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "80 000 〒",
+        "address": " 5 мкр — Ресторан Айжан",
+        "district": "мкр Привокзальный-5",
+        "url": "https://krisha.kz/a/show/681742370"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "350 000 〒",
+        "address": " мкр Самал-1 24 — Жолдасбекова-Мендикулова",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/687749373"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 109 м²",
+        "price": "400 000 〒",
+        "address": " Навои — Жандосова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/30252019"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 59 м²",
+        "price": "170 000 〒",
+        "address": " Пк Кунаева 336к16",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694158917"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "230 000 〒",
+        "address": " Пк Кунаева 336к16",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/689185586"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 135 м²",
+        "price": "900 000 〒",
+        "address": " Аль-Фараби 21 — Каратаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/678962094"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "300 000 〒",
+        "address": " Байзакова 170 — Толе Би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694359572"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "300 000 〒",
+        "address": " Жандосова 94А — Mega Center",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694067424"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "150 000 〒",
+        "address": " Жандосова 94А — Mega Center",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687358295"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "149 850 〒",
+        "address": " Мкр. Батыс-2 13Бк1 — проспект Алии Молдагуловой",
+        "district": "мкр. Алтын орда",
+        "url": "https://krisha.kz/a/show/680038959"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "800 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694411842"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34.5 м²",
+        "price": "140 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694083300"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 100 м²",
+        "price": "1 200 000 〒",
+        "address": " Аль-Фараби 41 — Сейфуллина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688693196"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "770 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689858367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 58 м²",
+        "price": "770 000 〒",
+        "address": " Аль-Фараби 41",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/692833685"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 80 м²",
+        "price": "350 000 〒",
+        "address": " Мангилик Ел — Улы дала Мангилик Ел",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/691451699"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "150 000 〒",
+        "address": "Светофор",
+        "district": "31Б микрорайон 8 — Рядом супермаркет Дана",
+        "url": "https://krisha.kz/a/show/678678877"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "130 000 〒",
+        "address": "Светофор",
+        "district": "31Б микрорайон 8 — Рядом супермаркет Дана",
+        "url": "https://krisha.kz/a/show/694253825"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "100 000 〒",
+        "address": "Светофор",
+        "district": "31Б микрорайон 8 — Рядом супермаркет Дана",
+        "url": "https://krisha.kz/a/show/693417116"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "250 000 〒",
+        "address": " мкр №1 47 — Алтынсарина/Улыкбека",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/687403798"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 44 м²",
+        "price": "300 000 〒",
+        "address": " Абая 52А — Байзакова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/4286825"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 42 м²",
+        "price": "350 000 〒",
+        "address": " проспект Абая 52А — Байзакова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/680639398"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 42 м²",
+        "price": "330 000 〒",
+        "address": " Манаса 87",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/666260632"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 33 м²",
+        "price": "220 000 〒",
+        "address": " Жандосова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691268523"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 75 м²",
+        "price": "280 000 〒",
+        "address": " Тлендиева — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/667834747"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "250 000 〒",
+        "address": " мкр Коктем-1 10 — Весновка",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693961644"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 78 м²",
+        "price": "350 000 〒",
+        "address": " мкр Коктем-1 10 — Весновка",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693892679"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "400 000 〒",
+        "address": " Тулебаева 174 — Шевченко",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/673329024"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 73 м²",
+        "price": "330 000 〒",
+        "address": " Тулебаева 174 — Шевченко",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/688783028"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 69 м²",
+        "price": "210 000 〒",
+        "address": " мкр Калкаман-2 22 — Между 1-ой и 7-ой больницей",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694419516"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55.5 м²",
+        "price": "80 000 〒",
+        "address": " мкр Калкаман-2 22 — Между 1-ой и 7-ой больницей",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/681636686"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "100 000 〒",
+        "address": " мкр Калкаман-2 22 — Между 1-ой и 7-ой больницей",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694419276"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 78 м²",
+        "price": "350 000 〒",
+        "address": " мкр Жетысу-2 — Абая Саина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694418872"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "200 000 〒",
+        "address": " мкр Жетысу-2 — Абая Саина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693973215"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "630 000 〒",
+        "address": " Мусрепова 22 — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/680695836"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "190 000 〒",
+        "address": " Садвакасова 35",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/681506120"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "200 000 〒",
+        "address": " Садвакасова 35",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693770932"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36.8 м²",
+        "price": "155 000 〒",
+        "address": " мкр Алгабас",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/689607523"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "140 000 〒",
+        "address": " Сарыарка 11",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694413851"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "170 000 〒",
+        "address": " мкр Нуртас 6 — Кеңжарық пен Кәусар көшесінің",
+        "district": "Каратауский",
+        "url": "https://krisha.kz/a/show/694129606"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "110 000 〒",
+        "address": " мкр Север 46 — Ул. Шаяхметова",
+        "district": "Енбекшинский",
+        "url": "https://krisha.kz/a/show/693473098"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45.5 м²",
+        "price": "150 000 〒",
+        "address": " мкр Север 46 — Ул. Шаяхметова",
+        "district": "Енбекшинский",
+        "url": "https://krisha.kz/a/show/694417540"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 83 м²",
+        "price": "230 000 〒",
+        "address": " Темирбека Жургенова 18/2",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/679343305"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 83 м²",
+        "price": "170 000 〒",
+        "address": " Джандосова 69/Б — Саина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/692217666"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "180 000 〒",
+        "address": " недалечко от Каспий Ривьеры",
+        "district": "4-й мкр — 4 мкр-он",
+        "url": "https://krisha.kz/a/show/688317150"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 78 м²",
+        "price": "150 000 〒",
+        "address": " Әлімбетова — Байтұрсынова",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/681773749"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 58 м²",
+        "price": "250 000 〒",
+        "address": " Әлімбетова — Байтұрсынова",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/687418046"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43 м²",
+        "price": "150 000 〒",
+        "address": " Әлімбетова — Байтұрсынова",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/692610912"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "210 000 〒",
+        "address": " Сембинова 7",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694352515"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "250 000 〒",
+        "address": " Айманова 68 — Карасай батыра",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694341926"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "90 000 〒",
+        "address": " Тулкибас 23 — Обаган",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/689780761"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 41 м²",
+        "price": "130 000 〒",
+        "address": " Женис 26а — Сейфуллина",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694335595"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "300 000 〒",
+        "address": " Желтоксан 28",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694418487"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 42 м²",
+        "price": "125 000 〒",
+        "address": " Бердибека Сокпакбаева 14/1 — Кенжебека Кумисбекова",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694364023"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "300 000 〒",
+        "address": " Навои 208 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693887591"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "250 000 〒",
+        "address": " А. Бокейханова 8 — Керей Жанибек ханов",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688854125"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 91.6 м²",
+        "price": "440 000 〒",
+        "address": " мкр Орбита-3 52",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/688211353"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43.8 м²",
+        "price": "280 000 〒",
+        "address": " Кабанбай Батыр 51 — Ұлы дала",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/680527577"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 47 м²",
+        "price": "200 000 〒",
+        "address": " Чайкиной",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/691328760"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "140 000 〒",
+        "address": " Чайкиной",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/692725544"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72 м²",
+        "price": "200 000 〒",
+        "address": " Адмирал Лев Владимирский 23 б — Экоцентр",
+        "district": "мкр Авангард-2",
+        "url": "https://krisha.kz/a/show/694419017"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "100 000 〒",
+        "address": " Есемберлина 23/1",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/694418948"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "240 000 〒",
+        "address": " Халиуллина 168",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/685571200"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "130 000 〒",
+        "address": " Халиуллина 168",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/683481123"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "180 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/686696468"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "100 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694418638"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "170 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694418551"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 25 м²",
+        "price": "80 000 〒",
+        "address": " Тауелсиздик 34/2 — Astana moll",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694418420"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 77 м²",
+        "price": "250 000 〒",
+        "address": " Ырысты 46/11 — Рыскулова Емцова",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/694418385"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 140 м²",
+        "price": "850 000 〒",
+        "address": " мкр Мирас 157 — Мустафина Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693283874"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "300 000 〒",
+        "address": " мкр Кайрат",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694338978"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 59 м²",
+        "price": "250 000 〒",
+        "address": " Туркебаева 59 а — Дуйсенова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694307961"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 186.4 м²",
+        "price": "800 000 〒",
+        "address": " мкр Самал-3 25 — Мендыкулова",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/20852552"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "190 000 〒",
+        "address": " Чокина 200/204 — Байзакова Толе би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/673542046"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "230 000 〒",
+        "address": " Богенбай батыра 192 — Шагабутдинова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/688886857"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 73 м²",
+        "price": "370 000 〒",
+        "address": " Кабанбай батыра 5",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/51252659"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "160 000 〒",
+        "address": " Ш. Айтматова 53 — Шоссе Коргалжын",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/692920200"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "300 000 〒",
+        "address": " мкр Коктем-3 1 — Бухар Жырау - Мусрепова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/690936915"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "250 000 〒",
+        "address": " Чернышевского — Сейфуллина",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/694319790"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "450 000 〒",
+        "address": " Ислама Каримова 203 — Тургут Озала",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/686698209"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72 м²",
+        "price": "350 000 〒",
+        "address": " Егизбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/679058465"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 78 м²",
+        "price": "300 000 〒",
+        "address": " Егизбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/680684223"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 46 м²",
+        "price": "330 000 〒",
+        "address": " Егизбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/683677381"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "350 000 〒",
+        "address": " Макатаева 127/25 — М",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/682137448"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "530 000 〒",
+        "address": " Наурызбай батыра 127 блок 4 — Наурызбай батыра - Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693148719"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 48 м²",
+        "price": "270 000 〒",
+        "address": " Абая 130",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694289367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72 м²",
+        "price": "250 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694355009"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "120 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/49185038"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "200 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694290699"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "270 000 〒",
+        "address": " Жунисова 14/3 — Толе би Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/691396575"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "670 000 〒",
+        "address": " Навои 58 — Навои угол Жандосова",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693926856"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "650 000 〒",
+        "address": " Радостовца 280",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691499911"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 55 м²",
+        "price": "350 000 〒",
+        "address": " Торекулова 91 блок 6 — Сейфуллина - Макатаева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693673753"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Торекулова 91 блок 6 — Сейфуллина - Макатаева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/678401610"
+    },
+    {
+        "rooms": "6-комнатная квартира",
+        "square": " 400 м²",
+        "price": "2 800 000 〒",
+        "address": " мкр Мирас 188/2",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693950114"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 22 м²",
+        "price": "170 000 〒",
+        "address": " Байзакова 289",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694162751"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "300 000 〒",
+        "address": " Д. Кунаева 35",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694341132"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "190 000 〒",
+        "address": " бульвар Бухар Жырау 40",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694415785"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 85 м²",
+        "price": "350 000 〒",
+        "address": " Сейфуллина 577/89 — Шевченко",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/685951367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 48 м²",
+        "price": "150 000 〒",
+        "address": " Сейфуллина 577/89 — Шевченко",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693643194"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 28 м²",
+        "price": "150 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/693696024"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "150 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/694417205"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 37 м²",
+        "price": "130 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/671256075"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 16 м²",
+        "price": "90 000 〒",
+        "address": " Уральская 45А",
+        "district": "Микрорайон Аэропорт 1",
+        "url": "https://krisha.kz/a/show/693723938"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "160 000 〒",
+        "address": " Жунисова",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/689375889"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "320 000 〒",
+        "address": " мкр Орбита-3 30 — Торайгырова Саина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694036798"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "200 000 〒",
+        "address": " мкр Юго-Восток 19 — Возле старой корзины",
+        "district": "Казыбек би",
+        "url": "https://krisha.kz/a/show/694366584"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "250 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694327847"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "100 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693570657"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "320 000 〒",
+        "address": " Кенесары хана 83/1",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694348765"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 61 м²",
+        "price": "170 000 〒",
+        "address": " Потанина 3 — ЖК Лея",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694402924"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 39 м²",
+        "price": "100 000 〒",
+        "address": " Потанина 3 — ЖК Лея",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694288790"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "180 000 〒",
+        "address": " Алихана Бокейханова 25 А",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/683131225"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 61 м²",
+        "price": "235 000 〒",
+        "address": " Туркестан 10 — Туркестан-Орынбор",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/688218486"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 35 м²",
+        "price": "200 000 〒",
+        "address": " Кожамкулова — Райымбека и Бокейханова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/690247648"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "150 000 〒",
+        "address": " Байтурсынова 17 а — Желтоксана",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/694398282"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 74 м²",
+        "price": "180 000 〒",
+        "address": " НИШ",
+        "district": "Карагайлы 43 — Абай Арена",
+        "url": "https://krisha.kz/a/show/681339466"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 38 м²",
+        "price": "170 000 〒",
+        "address": " проспект Райымбека 481 — Сайна",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/691066665"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 105 м²",
+        "price": "400 000 〒",
+        "address": " проспект Райымбека 481 — Сайна",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/694209976"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 52 м²",
+        "price": "240 000 〒",
+        "address": " проспект Райымбека 481 — Сайна",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/694314748"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "100 000 〒",
+        "address": " проспект Райымбека 481 — Сайна",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/694416808"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 68 м²",
+        "price": "300 000 〒",
+        "address": " Навои — Навои-Жандосова",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693961190"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 70 м²",
+        "price": "250 000 〒",
+        "address": " Навои — Навои-Жандосова",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/687899507"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 100 м²",
+        "price": "700 000 〒",
+        "address": " Абиша Кекилбайулы 264 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693881178"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 35 м²",
+        "price": "100 000 〒",
+        "address": " Абиша Кекилбайулы 264 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694364195"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "200 000 〒",
+        "address": " Абиша Кекилбайулы 264 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694416996"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 75 м²",
+        "price": "320 000 〒",
+        "address": " Сыганак 14",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/693668793"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "200 000 〒",
+        "address": " Сыганак 14",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/693908086"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "420 000 〒",
+        "address": " Сыганак 14",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/693465408"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "280 000 〒",
+        "address": " Тань - шанская 5а — Парка Горького",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/693870799"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 44 м²",
+        "price": "140 000 〒",
+        "address": " Бектурова 4/6",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694332752"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 44 м²",
+        "price": "180 000 〒",
+        "address": " Култегин 19/1 — Омарова",
+        "district": "Нура",
+        "url": "https://krisha.kz/a/show/694386298"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "400 000 〒",
+        "address": " Розыбакиева 343 — Ескараева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693886754"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 85 м²",
+        "price": "190 000 〒",
+        "address": " Мустафина 13 — Кудайбердыулы",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694206991"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 31 м²",
+        "price": "210 000 〒",
+        "address": " мкр Орбита-2",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694344690"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 72.2 м²",
+        "price": "580 000 〒",
+        "address": " мкр Самал-3 — Royal Club",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/686171368"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 28 м²",
+        "price": "150 000 〒",
+        "address": " мкр Самал-3 — Royal Club",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694416564"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 15 м²",
+        "price": "130 000 〒",
+        "address": " мкр №6 — Метро Фамили парк",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694413812"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "190 000 〒",
+        "address": " Тимирязева — Тимирязева -Розыбакиева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/689715080"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43 м²",
+        "price": "280 000 〒",
+        "address": " Ауэзова 79 — Ауэзова Тимирязева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/679068913"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "120 000 〒",
+        "address": " Ауэзова 79 — Ауэзова Тимирязева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694416210"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 82 м²",
+        "price": "200 000 〒",
+        "address": " Батыс 2 4 — Тәуелсіздік 4",
+        "district": "мкр. Алтын орда",
+        "url": "https://krisha.kz/a/show/694416312"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "275 000 〒",
+        "address": " Батыс 2 4 — Тәуелсіздік 4",
+        "district": "мкр. Алтын орда",
+        "url": "https://krisha.kz/a/show/48246896"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "220 000 〒",
+        "address": " Батыс 2 4 — Тәуелсіздік 4",
+        "district": "мкр. Алтын орда",
+        "url": "https://krisha.kz/a/show/694190461"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 20 м²",
+        "price": "120 000 〒",
+        "address": " Жумабаева 208",
+        "district": "Жетысуский",
+        "url": "https://krisha.kz/a/show/694194311"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 95 м²",
+        "price": "250 000 〒",
+        "address": " Кенесары 69А",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694416144"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "150 000 〒",
+        "address": " Кенесары 69А",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694288287"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "100 000 〒",
+        "address": " Кенесары 69А",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694247000"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 47 м²",
+        "price": "230 000 〒",
+        "address": " Улы Дала 58 — Гейдар Алиева",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/687694228"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "170 000 〒",
+        "address": " мкр Орбита-4",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694047858"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 55 м²",
+        "price": "220 000 〒",
+        "address": " мкр Орбита-4",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/690455552"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 30 м²",
+        "price": "130 000 〒",
+        "address": " Биржан ала",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/690254997"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "250 000 〒",
+        "address": " Керей и Жанибек хандар 22 — Туркестан",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/53313834"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "150 000 〒",
+        "address": " Керей и Жанибек хандар 22 — Туркестан",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694361602"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 120 м²",
+        "price": "190 000 〒",
+        "address": " Желтоксан — Г Илаева",
+        "district": "Абайский",
+        "url": "https://krisha.kz/a/show/683099296"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 86 м²",
+        "price": "350 000 〒",
+        "address": " Тлендиева 223",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694334062"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 49 м²",
+        "price": "150 000 〒",
+        "address": " проспект Республики 48/1 — Богенбая",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/54044545"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "140 000 〒",
+        "address": " Иманова 41 — Брусиловского",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/693982485"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 44 м²",
+        "price": "150 000 〒",
+        "address": " Александр Бараев 18/1 — Валиханова иманова",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/679888758"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Бухар жырау 20Б — Кабанбай батыра Туран",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694356401"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 43 м²",
+        "price": "135 000 〒",
+        "address": " Амангельды Иманова 36",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/675857243"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "240 000 〒",
+        "address": " Алихана Бокейханова 27/1 — Мангилик ел",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/693818081"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 128 м²",
+        "price": "400 000 〒",
+        "address": " Достык 10 — Сауран",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694356035"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "200 000 〒",
+        "address": " Бақтыораз Бейсекбаева 11 — Иманова Валиханова",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/687221953"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 130 м²",
+        "price": "300 000 〒",
+        "address": " Иманова 26 — Валиханова",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694415408"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "140 000 〒",
+        "address": " Б. Момышулы 12",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/27027821"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "160 000 〒",
+        "address": " Б. Момышулы 12",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/693972143"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "200 000 〒",
+        "address": " Кенесары 52",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/692581173"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "140 000 〒",
+        "address": " Бектурова 4 В",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/693445745"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 32 м²",
+        "price": "100 000 〒",
+        "address": " Проспект Н.Назарбаева 93",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/691624367"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "260 000 〒",
+        "address": " мкр Тастак-2 — Толе би тлендиева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694184013"
+    },
+    {
+        "rooms": "8-комнатная квартира",
+        "square": " 283.6 м²",
+        "price": "1 250 000 〒",
+        "address": " Арайлы 12",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/692936481"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "270 000 〒",
+        "address": " Айтеке би 202 — Нурмакова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/692025154"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "200 000 〒",
+        "address": " Иманбаевой 7",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694261042"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "220 000 〒",
+        "address": " Туран 56",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/684010257"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 87 м²",
+        "price": "270 000 〒",
+        "address": " Желтоксан",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/677626166"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 57 м²",
+        "price": "130 000 〒",
+        "address": " Желтоксан",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694346792"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 73 м²",
+        "price": "400 000 〒",
+        "address": " Мкр Коктем 1 20",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694088151"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "150 000 〒",
+        "address": " проспект Улы Дала 40",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/663627763"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 39 м²",
+        "price": "200 000 〒",
+        "address": " Райымбека 590/11",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/694348547"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 73 м²",
+        "price": "500 000 〒",
+        "address": " Кажымукана 59 — Назарбаева",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/671617720"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 41 м²",
+        "price": "150 000 〒",
+        "address": " Кажымукана 59 — Назарбаева",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/670644031"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 90 м²",
+        "price": "400 000 〒",
+        "address": " Тимирязева 37 — Шашкина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/683972470"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 144 м²",
+        "price": "150 000 〒",
+        "address": " Билялова",
+        "district": "мкр Атырау",
+        "url": "https://krisha.kz/a/show/693687460"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "300 000 〒",
+        "address": " Бабаева 158 — Радостовца",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693416437"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "280 000 〒",
+        "address": " Гагарина 310",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694022660"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 61 м²",
+        "price": "390 000 〒",
+        "address": " Бухар Жырау 35",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/678254189"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 42.8 м²",
+        "price": "200 000 〒",
+        "address": " Сыганак 6",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/680637732"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 70 м²",
+        "price": "360 000 〒",
+        "address": " Кошкарбаева 10/1 — Тауельсиздык",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/57089706"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 55 м²",
+        "price": "250 000 〒",
+        "address": " Кошкарбаева 10/1 — Тауельсиздык",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/680658344"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 56 м²",
+        "price": "280 000 〒",
+        "address": " Егизбаева 7г",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694343951"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 25 м²",
+        "price": "180 000 〒",
+        "address": " Егизбаева 7г",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687476858"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "360 000 〒",
+        "address": " Жумалиева 148 — Кабанбай батыра",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694099335"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 50 м²",
+        "price": "260 000 〒",
+        "address": " Егизбаева 7г",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/692216973"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "140 000 〒",
+        "address": " Махамбета 118г",
+        "district": "мкр Центральный",
+        "url": "https://krisha.kz/a/show/57370780"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 62 м²",
+        "price": "600 000 〒",
+        "address": " Назарбаева 235 Б",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693924015"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "180 000 〒",
+        "address": " К. Аманжолова 9/3 — Нажимеденова",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/677516505"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 47 м²",
+        "price": "260 000 〒",
+        "address": " мкр Сайран 3 — Утеген батыра",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/680535443"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36 м²",
+        "price": "170 000 〒",
+        "address": " Ул.Мынбайева 136",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694111412"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45 м²",
+        "price": "300 000 〒",
+        "address": " Абая 16 — Желтоксан",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694268754"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65.2 м²",
+        "price": "220 000 〒",
+        "address": " Туркестан 14а — Орынбор",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/692801549"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 285 м²",
+        "price": "850 000 〒",
+        "address": " Достык 535 — Оспанова",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/692049711"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 109 м²",
+        "price": "400 000 〒",
+        "address": " Мкр. Мирас 157 — Аскарова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/685792740"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 95 м²",
+        "price": "180 000 〒",
+        "address": " Мкр. Мирас 157 — Аскарова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694415685"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "180 000 〒",
+        "address": " Сатпаева — Манаса",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/694415789"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "165 000 〒",
+        "address": " А. Бокейханова 13",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694415308"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 60 м²",
+        "price": "200 000 〒",
+        "address": " мкр №1 — Жубанова - Алтынсарина",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694053220"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 61 м²",
+        "price": "600 000 〒",
+        "address": " Аль-Фараби",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694093532"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 147 м²",
+        "price": "320 000 〒",
+        "address": " Достык 14/2 — проспект Мангилик Ел",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/678170760"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "130 000 〒",
+        "address": " Ерманова 13 — Парк независимости",
+        "district": "Аль-Фарабийский",
+        "url": "https://krisha.kz/a/show/693971645"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "370 000 〒",
+        "address": " Байсеитовой 36 — Абая",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694297777"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "380 000 〒",
+        "address": " Гагарина 310",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694291370"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "350 000 〒",
+        "address": " Тургута Озала 94 — Толе би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694296965"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 65 м²",
+        "price": "550 000 〒",
+        "address": " Мусрепова 22 — Сатпаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/690834216"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "200 000 〒",
+        "address": " мкр Аксай-1А 7 — Толеби момышулы",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694100294"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 71 м²",
+        "price": "250 000 〒",
+        "address": " Федосеева 38В",
+        "district": "Турксибский",
+        "url": "https://krisha.kz/a/show/693444464"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "280 000 〒",
+        "address": " Розыбакиева 206 — Тимирязева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/682825899"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "180 000 〒",
+        "address": " мкр Зердели (Алгабас-6) — Момышулы-акын сара",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/694415467"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 47 м²",
+        "price": "130 000 〒",
+        "address": " Назарбаева 12/1 — Около оптовики 8/1",
+        "district": "Ульбинский",
+        "url": "https://krisha.kz/a/show/693539382"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 46 м²",
+        "price": "230 000 〒",
+        "address": " мкр №2",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/685869140"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 48 м²",
+        "price": "300 000 〒",
+        "address": " мкр №2",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/694355441"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "180 000 〒",
+        "address": " Александр Бараев 18/1",
+        "district": "Байконур",
+        "url": "https://krisha.kz/a/show/671435423"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 48 м²",
+        "price": "320 000 〒",
+        "address": " мкр Самал-1",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/680223607"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 46 м²",
+        "price": "230 000 〒",
+        "address": " мкр Самал-1",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694415196"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 56 м²",
+        "price": "230 000 〒",
+        "address": " Пр.Улы Дала 65/2",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/693503883"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 43 м²",
+        "price": "150 000 〒",
+        "address": " Щорса 12/2 — Кумисбекова",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694003193"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 43 м²",
+        "price": "140 000 〒",
+        "address": " А.Байтурсынова 18 — Жургенова",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694318081"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 62 м²",
+        "price": "430 000 〒",
+        "address": " Пушкина — Пушкина Карасай Батыра",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/693130029"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 32 м²",
+        "price": "100 000 〒",
+        "address": " Пушкина — Пушкина Карасай Батыра",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694396192"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 85 м²",
+        "price": "220 000 〒",
+        "address": " Пушкина — Пушкина Карасай Батыра",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694321453"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 85 м²",
+        "price": "120 000 〒",
+        "address": " Манаса 20/2",
+        "district": "Алматы",
+        "url": "https://krisha.kz/a/show/694411529"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 80 м²",
+        "price": "220 000 〒",
+        "address": " Е 496 10/2",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/54236549"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 90 м²",
+        "price": "550 000 〒",
+        "address": " Е 496 10/2",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/691481496"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 115 м²",
+        "price": "600 000 〒",
+        "address": " Абиша Кекилбайулы 267",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694363461"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 58 м²",
+        "price": "270 000 〒",
+        "address": " Толе би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/680632064"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 82 м²",
+        "price": "280 000 〒",
+        "address": " мкр Жетысу-2",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/686581331"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 100 м²",
+        "price": "300 000 〒",
+        "address": " Батыс 2 54А",
+        "district": "мкр. Алтын орда",
+        "url": "https://krisha.kz/a/show/692785905"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 70 м²",
+        "price": "270 000 〒",
+        "address": " мкр Тастак-3",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694167505"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 21 м²",
+        "price": "90 000 〒",
+        "address": " мкр Тастак-3",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/684415419"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " мкр №2 19",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693797757"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 67 м²",
+        "price": "330 000 〒",
+        "address": " мкр №2 19",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/692635909"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "200 000 〒",
+        "address": " мкр №2 19",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/687377752"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "260 000 〒",
+        "address": " Толе би — Тастак",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/688944779"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "350 000 〒",
+        "address": " Тулебаева 49/1 — Гоголя",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/693944248"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "200 000 〒",
+        "address": " мкр Тастак-3",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/687733860"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "260 000 〒",
+        "address": " мкр Тастак-3",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694093043"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 52 м²",
+        "price": "130 000 〒",
+        "address": " мкр Тастак-3",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/692627010"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 54 м²",
+        "price": "170 000 〒",
+        "address": " мкр Тастак-3",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/682231066"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 37 м²",
+        "price": "180 000 〒",
+        "address": " мкр Достык 12 — Карсити",
+        "district": "Ауэзовский",
+        "url": "https://krisha.kz/a/show/693802671"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 78 м²",
+        "price": "270 000 〒",
+        "address": " Брусиловского 159 — Брусиловского Кулымбетова",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694414570"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "350 000 〒",
+        "address": " мкр Нурсат 18Б — Арғынбеков шаяхметова",
+        "district": "Каратауский",
+        "url": "https://krisha.kz/a/show/694127028"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 90 м²",
+        "price": "900 000 〒",
+        "address": " Аль-Фараби 41 — Попова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694383798"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 49 м²",
+        "price": "220 000 〒",
+        "address": " мкр Аккент",
+        "district": "Алатауский",
+        "url": "https://krisha.kz/a/show/683423930"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "350 000 〒",
+        "address": " Сатпаева 90/62 — Туркебаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687280355"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 96 м²",
+        "price": "250 000 〒",
+        "address": " Кунаева 14",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694229881"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 85 м²",
+        "price": "350 000 〒",
+        "address": " Кабанбай батыра 60/3",
+        "district": "Есильский",
+        "url": "https://krisha.kz/a/show/694261466"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 70 м²",
+        "price": "400 000 〒",
+        "address": " Аль-Фараби",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694343109"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 63 м²",
+        "price": "280 000 〒",
+        "address": " Кабанбай батыра",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694229850"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 31.1 м²",
+        "price": "130 000 〒",
+        "address": " Кабанбай батыра",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/693142969"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 45 м²",
+        "price": "160 000 〒",
+        "address": " Потанина 3/2",
+        "district": "Сарыарка",
+        "url": "https://krisha.kz/a/show/694004676"
+    },
+    {
+        "rooms": "4-комнатная квартира",
+        "square": " 75 м²",
+        "price": "400 000 〒",
+        "address": " Тлендиева 61 — Толе-би",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/693689137"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 53 м²",
+        "price": "330 000 〒",
+        "address": " Гагарина 310",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694245212"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 73 м²",
+        "price": "150 000 〒",
+        "address": " Гагарина 310",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694363010"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 110 м²",
+        "price": "700 000 〒",
+        "address": " Розыбакиева 323",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694340256"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 36 м²",
+        "price": "60 000 〒",
+        "address": " Розыбакиева 323",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/677767380"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 34 м²",
+        "price": "115 000 〒",
+        "address": " народный банк",
+        "district": "Утепова — КШТ",
+        "url": "https://krisha.kz/a/show/694315886"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 98 м²",
+        "price": "500 000 〒",
+        "address": " Торайгырова 19 — Мустафина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/675657543"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 45.6 м²",
+        "price": "250 000 〒",
+        "address": " Торайгырова 19 — Мустафина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/687848925"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 76 м²",
+        "price": "800 000 〒",
+        "address": " Гагарина 310/6 — Гагарина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694171531"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "350 000 〒",
+        "address": " Брусиловского 159",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/680476950"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 65 м²",
+        "price": "350 000 〒",
+        "address": " Брусиловского 159",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/680476950"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 75 м²",
+        "price": "600 000 〒",
+        "address": " Аль-фараби 9 — Козыбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693663049"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 68 м²",
+        "price": "250 000 〒",
+        "address": " Аль-фараби 9 — Козыбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/681605237"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "250 000 〒",
+        "address": " Аль-фараби 9 — Козыбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/678475761"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "95 000 〒",
+        "address": " Аль-фараби 9 — Козыбаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/684197107"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 96 м²",
+        "price": "250 000 〒",
+        "address": " Муканова 1а",
+        "district": "мкр Жилгородок",
+        "url": "https://krisha.kz/a/show/685189075"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 70 м²",
+        "price": "280 000 〒",
+        "address": " Муканова 1а",
+        "district": "мкр Жилгородок",
+        "url": "https://krisha.kz/a/show/694232793"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 85 м²",
+        "price": "470 000 〒",
+        "address": " Достык 97 — Аль-Фараби",
+        "district": "Медеуский",
+        "url": "https://krisha.kz/a/show/694320655"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 47 м²",
+        "price": "150 000 〒",
+        "address": " улица Муса Баймуханов 39К",
+        "district": "мкр Привокзальный-1",
+        "url": "https://krisha.kz/a/show/674810776"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "200 000 〒",
+        "address": " улица Муса Баймуханов 39К",
+        "district": "мкр Привокзальный-1",
+        "url": "https://krisha.kz/a/show/673612722"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 60 м²",
+        "price": "300 000 〒",
+        "address": " Абишева — По Ташкентская. Напротив Авто Запчасти Базар «Жибек Жол»",
+        "district": "Наурызбайский",
+        "url": "https://krisha.kz/a/show/686901801"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "250 000 〒",
+        "address": " Жарокова 292 — Жарокова - Левитано",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/692630994"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 53 м²",
+        "price": "280 000 〒",
+        "address": " Сатпаева — Туркебаева",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/691206183"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 105 м²",
+        "price": "650 000 〒",
+        "address": " Навои 208 — Торайгырова",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/692674373"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 40 м²",
+        "price": "350 000 〒",
+        "address": " Розыбакиева 125/5",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/681393125"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 50 м²",
+        "price": "300 000 〒",
+        "address": " Райымбека 210/12",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/690894082"
+    },
+    {
+        "rooms": "3-комнатная квартира",
+        "square": " 78.7 м²",
+        "price": "750 000 〒",
+        "address": " Райымбека 210/12",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/687642292"
+    },
+    {
+        "rooms": "1-комнатная квартира",
+        "square": " 40 м²",
+        "price": "260 000 〒",
+        "address": " Касымова 28 — Шашкина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/694191256"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 55 м²",
+        "price": "245 000 〒",
+        "address": " Касымова 28 — Шашкина",
+        "district": "Бостандыкский",
+        "url": "https://krisha.kz/a/show/693762486"
+    },
+    {
+        "rooms": "2-комнатная квартира",
+        "square": " 44 м²",
+        "price": "300 000 〒",
+        "address": " Макатаева 131 — Муратбаева",
+        "district": "Алмалинский",
+        "url": "https://krisha.kz/a/show/694390692"
+    }
+]
